@@ -1,0 +1,39 @@
+.product-meta-setting{
+  span.anticon.anticon-drag.drag-handle{
+    cursor: grab; 
+    color: #0071a1;
+  }
+  .product-meta-actions{
+  
+    .update-msg{
+      margin: 0px;
+    }
+    .add-row{
+      margin-top: 10px;
+    }
+  //   margin-top: 10px;
+  //   display: flex;
+  //   div{
+  //     flex: 0 0 260px;
+  //     // flex: 50%;
+  //     &:nth-child(2){
+  //       flex: 0 0 90px;
+  //     }
+  //   }
+  }
+}
+.row-dragging {
+  background: #fafafa!important;
+  border: 1px solid #ccc!important;
+  z-index: 9999;
+}
+
+.row-dragging td {
+  z-index: 9999;
+  padding: 16px!important;
+}
+
+.row-dragging .drag-visible {
+  z-index: 9999;
+  visibility: visible!important;
+}

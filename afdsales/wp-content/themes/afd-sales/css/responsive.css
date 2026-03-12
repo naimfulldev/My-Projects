@@ -1,0 +1,603 @@
+/* -------------- media query start ---------------*/
+@media (max-width:2560px)and (min-width: 1921px){
+}
+@media (max-width:2000px) and (min-width: 1921px){
+}
+@media (max-width:1750px){
+.container_full {
+    padding: 0px 100px;
+}
+.shop_footwear_img {
+    height: 503px;
+}
+.product_img {
+    height: 395px;
+}
+.product_grid.collection_product_grid .product_block {
+    width: 22.3%;
+}
+}
+@media (max-width:1699px){
+.product_img {
+    height: 360px;
+}
+.product_grid.collection_product_grid .product_block {
+    width: 22.1%;
+}
+.shop_footwear_img {
+    height: 456px;
+}
+}
+@media (max-width:1599px){
+    .navbar-collapse {
+        margin-left: 0;
+    }
+}
+@media (max-width:1499px){
+.p_product_aside {
+    width: 58%;
+}
+.p_product_artical {
+    width: 42%;
+    padding-left: 50px;
+}
+.product-detail-part .slider-nav .slick-slide.thumbnail-image .thumbImg{
+    height: 142px;
+}
+.product_grid.collection_product_grid .product_block {
+    width: 21.8%;
+}
+.product_info_colors p {
+    font-size: 11px;
+}
+.shop_ppe_products_info {
+     width: 43%;
+}
+.shop_footwear_img {
+    height: 400px;
+}
+.product_img {
+    height: 320px;
+}
+.navbar-collapse {
+    margin-left: 0;
+}
+.emailpart-block .sr-input {
+    width: 290px;
+}
+.emailpart-block .sr-btn{
+	width: 127px;
+}
+.header_part nav ul li a{
+	padding: 0px 17px !important;
+}
+}
+@media (max-width:1400px){ 
+    .container_full {
+        padding: 0px 60px;
+    }
+}
+@media (max-width:1366px){ 
+    /*.container_full {
+        padding: 0px 60px;
+    }*/
+}
+@media (max-width:1310px){ 
+    .container_full {
+        padding: 0px 40px;
+    }
+}
+@media (max-width:1280px){
+.product_grid.collection_product_grid .product_block {
+    width: 21.7%;
+}
+
+.container_full {
+    padding: 0px 40px;
+}
+.product_info_title h3 {
+    letter-spacing: 0.8px;
+}
+.header_part nav ul li a{
+	padding: 0px 15px !important;
+	font-size: 13px;
+}
+.related_products_section {
+    padding-top: 90px;
+}
+}
+@media (max-width:1200px){
+}
+@media (max-width:1199px){
+.p_product_artical {
+    padding-left: 25px;
+}
+.product_grid.collection_product_grid .product_block {
+    width: 21.4%;
+}
+.banner-info h1 {
+    font-size: 42px;
+    line-height: 48px;
+}
+.header_part nav ul li a {
+    padding: 0px 13px!important;
+    font-size: 12px;
+}
+.banner-info p {
+	padding-bottom: 18px;
+}
+}
+@media (max-width:1160px){
+    .container_full {
+        padding: 0px 20px;
+    }
+    .header_part nav ul li a {
+        padding: 0px 8px!important;
+        font-size: 11px;
+    }
+}
+@media (max-width:1024px){
+.product-detail-part .slider-nav .slick-slide.thumbnail-image .thumbImg{
+    height: 115px;
+}
+.container_full {
+    padding: 0px 20px;
+}
+.product_grid.collection_product_grid .product_block {
+    width: 23.3%;
+}
+/*.product_grid.collection_product_grid .product_block .product_img {
+    height: 352px;
+}*/
+.header_part nav ul li a {
+    padding: 0px 8px!important;
+    font-size: 11px;
+}
+.american_factory_part p {
+    font-size: 14px;
+ }
+.shop_ppe_products_block p {	
+	padding-bottom: 10px;
+}
+.shop_footwear_info h3 {
+    font-size: 22px;
+}
+ .footer_block:last-child {
+    padding-top: 20px;
+}
+ .footer_part {
+    flex-flow: wrap;
+}
+.banner_img, .shop_footwear_block {
+    margin: 0px 8px;
+}
+.shop_ppe_products_block h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.product_img {
+    height: 280px;
+}
+.product_grid, .shop_footwear_grid {
+    margin: 0px -8px;
+}
+.product_block{
+	margin: 0px 8px;
+}
+.main-banner_part {
+    display: flex;
+    align-items: center;
+    margin-right: -8px;
+}
+.banner-info h1 {
+    font-size: 40px;
+    line-height: 43px;
+}
+}
+@media (max-width:992px){
+}
+@media (max-width:991px){
+body.menu-open {
+    width: 100%;
+    position: fixed;
+}
+.navbar-light .navbar-toggler-icon {
+   background-image: url(../image/menu.png);
+    width: 26px;
+    height: 18px;
+    background-repeat: no-repeat;
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: -9px;
+}
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: transparent;
+}
+a.navbar-brand {
+    padding: 0;
+}
+.navbar-light .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon{
+    background-image: url(../image/close.png);
+    width: 16px;
+}
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+     margin: 0;
+}
+.navbar-toggler {
+    position: absolute;
+    left: 20px;
+    padding: 0;
+    border: none;
+}
+.header_part nav ul li a {
+    padding: 0px 20px!important;
+    font-size: 14px;
+    line-height: 34px;
+    text-align: left;
+}
+ul.navbar-nav {
+    padding-top: 30px;
+    padding-bottom: 480px;
+}
+.shoping_bag {
+    padding-right: 20px;
+}
+a.navbar-brand {
+    margin: 0 auto;
+     padding-left: 46px;
+}
+.search-part{
+	display: none;
+}
+.navbar-collapse {
+    position: absolute;
+    width: 100%;
+    top: 62px;
+    z-index: 2;
+    background-color: #ffffff;
+    border-top: 1px solid lightgray;
+}
+.main_header .container_full {
+    padding: 0;
+}
+.main_header {
+    padding: 20px 0px;
+}
+}
+@media (max-width:768px){
+.p_product_part {
+    flex-flow: column;
+}
+.product-detail-part .slider-nav .slick-slide.thumbnail-image .thumbImg{
+    height: 145px;
+}
+.p_product_aside {
+    width: 100%;
+}
+
+.p_product_artical {
+    width: 100%;
+    padding:0;
+    justify-content: flex-start;
+    padding-top: 40px;
+}
+.product_grid.collection_product_grid .product_block {
+    width: 47.7%;
+}
+.product_grid.collection_product_grid {
+    display: flex;
+}
+.shop_footwear_img {
+    height: 260px;
+}
+.american_factory_info h5 {
+   font-size: 14px;
+}
+.american_factory_section {
+    padding-top: 0;
+}
+.shop_ppe_products_info {
+    width: 56%;
+}
+.shop_ppe_products_block h2 {
+    font-size: 39px;
+    line-height: 45px;
+}
+.product_grid {
+    display: none;
+}
+.product_grid_mob {
+    display: block;
+}
+.product_img {
+    height: 396px;
+}
+.shop_footwear_info h3 {
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+.product_block {
+    width: 100%;
+}
+.related_products_grid .product_grid {
+    display: flex;
+    flex-flow: wrap;
+}
+.related_products_grid .product_grid .product_block {
+    width: 47.7%;
+    padding-bottom: 25px;
+}
+.related_products_section {
+    padding-bottom: 45px;
+}
+}
+@media (max-width:767px){
+}
+@media (max-width:600px){
+.related_products_grid .product_grid .product_block {
+    width: 100%;
+}
+.related_products_section {
+    padding-bottom: 30px;
+    padding-top: 55px;
+}
+.product-detail-part .banner-slider .slider.slider-for {
+   padding-left: 12px;
+}
+.p_product_intro h2 {
+    font-size: 28px;
+    line-height: 35px;
+    letter-spacing: 0.5px;
+    padding-bottom: 11px;
+}
+.p_product_artical {
+    padding-top: 35px;
+}
+.product-detail-part .slider-nav .slick-slide.thumbnail-image .thumbImg{
+    height: 78px;
+    margin: 5px 0px;
+}
+.product-detail-part .banner-slider .slider.slider-nav {
+    margin-top: -6px;
+}
+.middle_header ul {
+    justify-content: center;
+}
+.collection_product {
+    /*padding-bottom: 55px;*/
+}
+.product_grid.collection_product_grid .product_block {
+    width: 100%;
+    padding-bottom: 25px;
+}
+.middle_header ul li {
+    padding: 0px 17px;
+}
+.desktop_bg {
+    display: none;
+}
+.footer_bottom_left {
+    padding-top: 27px;
+}
+.footer_bottom_left ul li a {
+    font-size: 12px;
+    line-height: 30px;
+}
+.footer_block:last-child {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.footer_bottom_left ul {
+    flex-flow: wrap;
+}
+.footer_section hr{
+	display: none;
+}
+.footer_bottom_left ul li:first-child {
+    width: 100%;
+}
+.footer_bottom {
+    flex-flow: column-reverse;
+}
+.footer_bottom_right ul li{
+	margin-left: 0;
+	margin-right: 10px;
+}
+.emailpart-block .sr-btn{
+	width: 100%;
+	margin: 0;
+}
+.footer_contact {
+    display: flex;
+}
+.footer_contact a:last-child:after{
+	display: none;
+}
+.footer_contact a {
+    padding-right: 15px;
+    position: relative;
+    margin-right: 15px;
+        font-size: 13px;
+}
+.footer_contact a:after {
+    position: absolute;
+    content: '/';
+    right: 0;
+}
+.footer_block ul li a {
+    font-size: 13px;
+}
+.footer_section {
+    padding-top: 46px;
+}
+.emailpart-block .sr-input {
+    width: 100%;
+    margin-bottom: 12px;
+}
+.footer_block h4{
+	padding-bottom: 6px;
+	font-size: 14px;
+}
+.footer_block {
+    padding-bottom: 37px;
+}
+.footer_part {
+    flex-flow: column;
+   padding-bottom: 0;
+   text-align: center;
+}
+.american_factory_section {
+    padding-bottom: 51px;
+}
+.american_factory_part {
+    padding-bottom: 15px;
+}
+.american_factory_info {
+    padding-top: 14px;
+}	
+.american_factory_info h5 {
+    font-size: 16px;
+    padding-left: 0;
+}
+.american_factory_block {
+    flex-flow: column;
+    margin-bottom: 34px;
+}
+.american_factory_aside {
+    border-top: 1px solid #d4d4d4;
+    padding-top: 43px;
+}
+.american_factory_part p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.shop_ppe_products_block p {
+	padding-bottom: 1px;
+}
+.mob_bg {
+    display: block;
+}
+.shop_ppe_products_block h2 {
+    font-size: 32px;
+    line-height: 45px;
+    padding-bottom:8px;
+}
+.shop_ppe_products_info {
+    width: 100%;
+    padding: 0px 15px;
+    top: unset;
+    bottom: 23px;
+    align-items: end;
+}
+.main-banner {
+    background-image: none;
+    background-color: #f6f6f6;
+    padding: 45px 0px;
+    padding-top: 0;
+}
+.shop_footwear_info h3{
+	padding-bottom: 21px;
+}
+.shop_footwear_info {
+    padding-top: 24px;
+}
+.shop_footwear_img {
+    height: 410px;
+}
+.featured_title h5 {
+    font-size: 14px;
+    padding-bottom: 4px;
+}
+.featured_section {
+    padding: 52px 0px;
+}
+.featured_title h2 {
+    font-size: 18px;
+}
+.shop_footwear_block{
+	margin:0;
+}
+.banner-info p {
+	padding-bottom: 1px;
+}
+.shop_footwear_grid {
+    flex-flow: column;
+    margin: 0;
+}
+.emailpart-block {
+    flex-flow: column;
+}
+.american_factory_grid {
+    flex-flow: column;
+       padding-bottom: 0;
+}
+.shop_footwear_block {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.shop_footwear_section {
+    padding-bottom: 0;
+}
+.product_info_colors p {
+    font-size: 13px;
+    text-align: left;
+    padding-top: 10px;
+}
+.product_info_colors {
+	width: 100%;
+    /*display: none;*/
+}
+.product_info {
+    flex-flow: column;
+}
+.banner-info h1 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 8px;
+}
+.product_info_title {
+    width: 100%;
+}
+.container_full {
+    padding: 0px 15px;
+}
+.product_grid_mob {
+    margin-right: -15px;
+}
+.product_img {
+    height: 295px;
+}
+.banner-img_part {
+    width: 100%;
+}
+.banner_img:last-child {
+    display: none;
+}
+.banner-info {
+    width: 100%;
+    padding-top: 20px;
+}
+.banner_img {
+    width: 100%;
+    margin: 0;
+}
+.main-banner_part {
+    flex-flow: column-reverse;
+    margin: 0;
+}
+}
+@media (max-width:550px){
+}
+@media (max-width:500px){
+}
+@media (max-width:480px){ 
+}
+@media (max-width:425px){
+}
+@media (max-width:380px){
+}
+@media (max-width: 360px) {
+}

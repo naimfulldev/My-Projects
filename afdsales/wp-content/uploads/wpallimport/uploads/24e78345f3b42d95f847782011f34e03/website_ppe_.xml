@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<product><![CDATA[Hand Sanitizer ]]></product>
+		<sku><![CDATA[HS ]]></sku>
+		<unitofmeasure><![CDATA[12 per case ]]></unitofmeasure>
+		<price><![CDATA[$24, $36]]></price>
+		<category><![CDATA[PPE]]></category>
+		<size><![CDATA[4 oz, 8 oz ]]></size>
+		<description><![CDATA[With 70% Alcohol
+Effectively eliminate most pathogenic microorganisms
+Can quickly kill germs, fungi, cocci, and viruses, etc.,
+Gel texture
+FDA approved]]></description>
+		<image><![CDATA[Hand-Sanitizer-4-oz.png,Hand Sanitizer 8oz.png]]></image>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+</data>

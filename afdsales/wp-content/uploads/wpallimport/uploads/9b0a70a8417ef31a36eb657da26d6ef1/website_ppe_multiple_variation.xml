@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<product><![CDATA[Nitrile Gloves ]]></product>
+		<sku><![CDATA[NG ]]></sku>
+		<unitofmeasure><![CDATA[100 per Box ]]></unitofmeasure>
+		<price><![CDATA[$13 ]]></price>
+		<category><![CDATA[PPE]]></category>
+		<size><![CDATA[XS| S| M| L| XL]]></size>
+		<description><![CDATA[High quality gloves that are powder-free and latex-free. High tear resistance and comfortable design. 100 gloves per box. ]]></description>
+		<image><![CDATA[Nitrile Exam Gloves.png]]></image>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<product><![CDATA[Isolation Gowns ]]></product>
+		<sku><![CDATA[IG ]]></sku>
+		<unitofmeasure><![CDATA[50 per case ]]></unitofmeasure>
+		<price><![CDATA[$50 ]]></price>
+		<category><![CDATA[PPE]]></category>
+		<size><![CDATA[Universal| XL|XXL| XXXL]]></size>
+		<description><![CDATA[Fine Design: The gown is made from lightweight, non-woven materials that ensures fluid resistance.
+Proper Size Design: The gown is designed to fit men and women of all sizes while providing comfort and flexibility.
+Double Tie Design: The gown features the dual ties at the back of the waist and neck which creates a comfortable and secure fit.
+Breathable Design: The CE certified protection gown is strong enough for tough duties while still being comfortably breathable and flexible.]]></description>
+		<image><![CDATA[Medical Gown.png]]></image>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+</data>

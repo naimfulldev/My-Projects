@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[TBJR]]></sku>
+		<item><![CDATA[Infant Toothbrush ]]></item>
+		<price><![CDATA[$0.10]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[ADA Approved, does not contain Diethylene glycol (DEG)]]></description>
+		<image><![CDATA[Infant Toothbrush.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[TS2]]></sku>
+		<item><![CDATA[Baby Wash ]]></item>
+		<price><![CDATA[$0.75]]></price>
+		<size><![CDATA[]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Hypoallergenic, Unscented]]></description>
+		<image><![CDATA[Baby Wash.png]]></image>
+	</node>
+</data>

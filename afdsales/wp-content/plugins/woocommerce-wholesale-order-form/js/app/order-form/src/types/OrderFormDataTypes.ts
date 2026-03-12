@@ -1,0 +1,30 @@
+export enum EOrderFormDataActionTypes {
+  FETCH_ORDER_FORM_DATA = "FETCH_ORDER_FORM_DATA",
+  SET_ORDER_FORM_DATA = "SET_ORDER_FORM_DATA",
+  SET_ORDER_FORM_PRODUCTS = "SET_ORDER_FORM_PRODUCTS",
+  SET_ORDER_FORM_PAGINATION = "SET_ORDER_FORM_PAGINATION",
+  SET_PAGE_SELECTED_ALL = "SET_PAGE_SELECTED_ALL",
+  SET_ORDER_FORM_FILTERS = "SET_ORDER_FORM_FILTERS",
+  SET_ORDER_FORM_SELECTED_PRODUCTS_TO_ADD_CART = "SET_ORDER_FORM_SELECTED_PRODUCTS_TO_ADD_CART",
+  UPDATE_ORDER_FORM_SELECTED_PRODUCTS = "UPDATE_ORDER_FORM_SELECTED_PRODUCTS",
+  SET_ORDER_FORM_CART_SUBTOTAL = "SET_ORDER_FORM_CART_SUBTOTAL",
+  SET_ORDER_FORM_TABLE_SORTER = "SET_ORDER_FORM_TABLE_SORTER",
+  GET_MIN_ORDER_REQ_NOTICE = "GET_MIN_ORDER_REQ_NOTICE",
+  SET_MIN_ORDER_REQ_NOTICE = "SET_MIN_ORDER_REQ_NOTICE",
+}
+
+export interface IOrderFormData {
+  formTitle: boolean[];
+  formFooter: any[];
+  formHeader: any[];
+  formTable: any[];
+  formStyles: any[];
+  formSettings: any[];
+  formProducts: any[];
+  formPagination: any[];
+  formFilters: any[];
+  formSelectedProducts: any[];
+  formCartSubtotal: any[];
+  formTableSorter: any[];
+  formMinOrderReqNotice: any[];
+}

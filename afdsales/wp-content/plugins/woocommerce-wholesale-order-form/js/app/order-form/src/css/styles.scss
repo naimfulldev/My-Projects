@@ -1,0 +1,298 @@
+/*
+* Compatible with the ff themes:
+* - Flatsome
+* - Astra
+* - Divi
+* - Woodmart
+* - Avada
+* - OceanWP
+* - Storefront
+*/
+
+// Antd modal
+.ant-modal-root{
+
+    // DIVI: theme issue with modal not in front. The header is blocking.
+    .ant-modal-mask,
+    .ant-modal-wrap{
+        z-index: 99999;
+
+        // Woodmart: issue with modal close button
+        .ant-modal-close{
+            position: absolute;
+            padding: 0px;
+
+            .ant-modal-close-x{
+                width: 34px;
+                height: 34px;
+                line-height: 34px;
+            }
+        }
+
+    }
+}
+
+// DIVI: Fix modal variation dropdown not showing for divi after adding the z-index above.
+.ant-select-dropdown{
+    z-index: 999991;
+}
+
+// DIVI: Fix adding to cart behind the modal
+div.ant-notification{
+    z-index: 999992;
+}
+
+.ant-popover{
+    z-index: 999993;
+}
+
+// Global CSS
+body{
+
+    // Storefront theme remove scroll
+    .site {
+        overflow-x: unset;
+    }
+
+    // Flatsome theme
+    div.order-form-wrapper{
+        // Flatsome: Added margin-left on li. Override the flatsome style.
+        ul{
+            li{
+                margin-left: auto;
+
+                // Woodmart: last child has margin-bottom: 0px;. Fix it by remove margin bottom to other li's so they even.
+                margin-bottom: 0px;
+                
+            }
+        }
+        // Flatsome: Padding and font size is differnet in flatsome. Force to use the antd padding and font size.
+        .ant-input{
+            padding: 6.5px 11px;
+            font-size: 16px;
+
+            // Avada: input has set 50px height fixed it by setting auto
+            height: auto;
+        }
+    }
+
+    div.form-header,.div.form-footer{
+        .form-row{
+            padding-bottom: 10px;
+            // display: flex;
+            // flex-direction: row;
+
+            .wwof-col{
+                display: inline-block;
+                vertical-align: top;
+                padding: 2px;
+    
+                .item{
+                    display: inline-block;
+                }
+            }
+        }
+    }
+
+    .ant-select-dropdown-menu{
+        margin: 0px;
+    }
+    .wwof-alert-message{
+        margin-bottom: 15px;
+    }
+    .form-header,
+    .form-table,
+    .form-footer{
+        display: flex;
+    }
+
+    .wwof-order-form {
+        table{
+            
+            th,td{
+                vertical-align: middle;
+            }
+            .product-name{
+                .ant-btn-link{
+                    white-space: break-spaces;
+                }
+            }
+            .standard-dropdown label{
+                &::after{
+                    content: "\a";
+                    white-space: pre;
+                }
+            }
+        }
+
+        // Antd Table
+        .ant-table-content{
+            font-size: 16px;
+        }
+    }
+    .ant-popover {
+        width: 300px;
+    }
+
+    .wwof-qty-based-table{
+        table{
+            th,td{
+                padding: .5rem;
+            }
+        }
+    }
+    .ant-image-preview-root{
+        .ant-image-preview-img{
+            display: initial;
+        }
+    }
+
+    .ant-modal-content{
+        .categories{
+            span{
+                margin-bottom:.4rem;
+            }
+        }
+        .add-to-cart{
+            display: flex;
+            gap: 8px;
+            flex-direction: row;
+
+            .stock-status{
+                line-height: 40px;
+            }
+        }
+    }
+
+    .ant-pagination{
+        .ant-pagination-item{
+            a{
+                text-decoration: none;
+            }
+        }
+    }
+    .ant-popover-title{
+        font-weight: 700;
+    }
+
+    // Image Gallery 
+    .image-gallery{
+        .image-gallery-index{
+            padding: 5px 10px;
+        }
+        .image-gallery-bullets {
+            bottom: 10px;
+            .image-gallery-bullet {
+                border:1px solid #1890ff!important;
+                box-shadow: none!important;
+                background-color: #fefe!important;
+    
+                // Flatsome: Override floatsome min-height issue
+                min-height: auto!important;
+
+                &.active{
+                    background: #1890ff!important;
+                }
+                &:focus,&:hover{
+                    background: #1890ff!important;
+                }
+            }
+        }
+        .image-gallery-icon.image-gallery-fullscreen-button{
+            padding: 0px;
+            margin: 0px;
+            left: 4px;
+            top: 4px;
+            bottom: auto;
+
+            &:hover{
+                color: #1890ff;
+                background-color: inherit;
+            }
+            .image-gallery-svg{
+                width: 25px;
+                height: 25px;
+            }
+        }
+        .image-gallery-thumbnails{
+            .image-gallery-thumbnail{
+                &.active, &:hover,&:focus{
+                    border: 2px solid #1890ff!important;
+                }
+            }
+        }
+        
+    }
+
+    // Woodmart: Issue with the modal images pause/play and full screen image
+    .image-gallery-fullscreen-button, .image-gallery-play-button{
+        color: #fff;
+        background-color: inherit;
+        position: absolute;
+        box-shadow: none;
+    }
+
+    button.image-gallery-icon.image-gallery-play-button{
+        position: absolute;
+        padding: 0px!important;
+        left: 2px!important;
+        bottom: 4px!important;
+
+        &:hover{
+            color: #1890ff!important;
+            background-color: inherit!important;
+            
+            // Woodmart: Remove dark shadow on hover
+            box-shadow: none;
+        }
+
+        .image-gallery-svg{
+            width: 25px!important;
+            height: 25px!important;
+        }
+    }
+    
+
+    .ant-select.ant-select-lg.ant-select-single{
+        max-width: 300px!important;
+    }
+
+    // Select Dropdown
+    .ant-select-dropdown{
+        .ant-select-item-option{
+            &.combo-variation,&.standard-variation{
+                border-bottom: 1px solid #d9d9d9;
+                &:last-child{
+                    border-bottom: none; 
+                }
+                &:nth-child(odd):not(.ant-select-item-option-selected):not(.ant-select-item-option-active){
+                    background:#fdfdfd;
+                }
+                &:nth-child(even):not(.ant-select-item-option-selected):not(.ant-select-item-option-active){
+                    background:#fbfbfb;
+                }
+                .ant-select-item-option-content{
+                    white-space: pre-wrap!important;
+                }
+            }
+        }
+    }
+
+    .ant-btn-lg {
+        height: auto!important;
+    }
+
+    // Antd List
+    .wwof-variation-attributes.ant-list-sm{
+        margin-bottom: 20px;
+        .ant-list-items{
+            li.ant-list-item{
+                display: list-item!important;
+                padding: 0px 0px 2px 0px;
+                border-bottom: 0!important;
+            }
+        }
+    }
+    
+}
+

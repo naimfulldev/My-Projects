@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[TBJR]]></sku>
+		<item><![CDATA[Infant Toothbrush ]]></item>
+		<price><![CDATA[$0.10]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[ADA Approved, does not contain Diethylene glycol (DEG)]]></description>
+		<image><![CDATA[Infant Toothbrush.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[TS2]]></sku>
+		<item><![CDATA[Baby Wash ]]></item>
+		<price><![CDATA[$0.75]]></price>
+		<size><![CDATA[2 oz ]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Hypoallergenic, Unscented]]></description>
+		<image><![CDATA[Baby Wash.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[BW]]></sku>
+		<item><![CDATA[Baby Wipes ]]></item>
+		<price><![CDATA[$3.50 ]]></price>
+		<size><![CDATA[7" x 8" 40 per pack]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Unscented, Travel Pack ]]></description>
+		<image><![CDATA[Baby Wipes.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[Z1]]></sku>
+		<item><![CDATA[Diaper Rash Ointment ]]></item>
+		<price><![CDATA[$1.75]]></price>
+		<size><![CDATA[2 oz ]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Zinc Oxide, Unscented ]]></description>
+		<image><![CDATA[Diaper Rash Oitment.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[DBP]]></sku>
+		<item><![CDATA[Disposable Bed Pad ]]></item>
+		<price><![CDATA[$10.00]]></price>
+		<size><![CDATA[23" x 36" 10 per bag]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Latex-Free, Waterproof backing, Absorbent Embossed Core]]></description>
+		<image><![CDATA[Disposable Bed Pads.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[ TPADA46]]></sku>
+		<item><![CDATA[Toothpaste]]></item>
+		<price><![CDATA[$1.80 ]]></price>
+		<size><![CDATA[4.6 oz ]]></size>
+		<category><![CDATA[Hygiene ]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[ADA Approved, does not contain Diethylene glycol (DEG)]]></description>
+		<image><![CDATA[Toothpaste.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[TB43]]></sku>
+		<item><![CDATA[Toothbrush ]]></item>
+		<price><![CDATA[$0.30]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Basic, Fresh mint]]></description>
+		<image><![CDATA[Toothbrush.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[TBHLDR]]></sku>
+		<item><![CDATA[Toothbrush Covers ]]></item>
+		<price><![CDATA[$0.35 ]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Plastic ]]></description>
+		<image><![CDATA[Toothbrush Cover.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[C5]]></sku>
+		<item><![CDATA[Hair Combs ]]></item>
+		<price><![CDATA[$0.10]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Plastic ]]></description>
+		<image><![CDATA[Hair Comb.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[D15]]></sku>
+		<item><![CDATA[Deodorant ]]></item>
+		<price><![CDATA[$1.00]]></price>
+		<size><![CDATA[1.5 oz]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Roll On (Non-Spray), Anti-Perspirant]]></description>
+		<image><![CDATA[Deodorant.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[FBG4]]></sku>
+		<item><![CDATA[Soap ]]></item>
+		<price><![CDATA[$1.00]]></price>
+		<size><![CDATA[4 oz ]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Liquid, Antibacterial ]]></description>
+		<image><![CDATA[Soap.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[BT]]></sku>
+		<item><![CDATA[Bath Tissue ]]></item>
+		<price><![CDATA[$1.00]]></price>
+		<size><![CDATA[4.5" x 3.5"]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Safe for sewer and septic systems, minimum 2-ply]]></description>
+		<image><![CDATA[Bath Tissue.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[FCS4]]></sku>
+		<item><![CDATA[Shampoo & Conditioner ]]></item>
+		<price><![CDATA[$1.00]]></price>
+		<size><![CDATA[4 oz ]]></size>
+		<category><![CDATA[Hygiene ]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Unscented, Two-in-One ]]></description>
+		<image><![CDATA[Shampoo & Conditioner.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[AWW]]></sku>
+		<item><![CDATA[Adult Wet Wipes ]]></item>
+		<price><![CDATA[$3.50]]></price>
+		<size><![CDATA[9" x 13" 60pk ]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Unscented ]]></description>
+		<image><![CDATA[Adult Wet Wipes.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[HS4]]></sku>
+		<item><![CDATA[Hand Sanitizer ]]></item>
+		<price><![CDATA[$2.00]]></price>
+		<size><![CDATA[4 oz ]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Must be capable of killing 99.99% of germs ]]></description>
+		<image><![CDATA[Hand Sanitizer.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[WC]]></sku>
+		<item><![CDATA[Washcloth ]]></item>
+		<price><![CDATA[$12.50]]></price>
+		<size><![CDATA[8" x 12" 64 per pack]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Disposable, Pre-Moistened, Hypoallergenic ]]></description>
+		<image><![CDATA[Wash Cloths.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[B]]></sku>
+		<item><![CDATA[Bottles ]]></item>
+		<price><![CDATA[$2.00]]></price>
+		<size><![CDATA[Universal ]]></size>
+		<category><![CDATA[Infant ]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Lightweight and easy to hold
+Micro air vents help prevent nipple collapse
+Molded measurement markers in both ounces and milliliters]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[IBl]]></sku>
+		<item><![CDATA[Infant Blanket ]]></item>
+		<price><![CDATA[$20.00]]></price>
+		<size><![CDATA[Universal ]]></size>
+		<category><![CDATA[Infant ]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Made of 100% cotton for that soothing softness and warmth for the best way to keep babies warm and cozy. ]]></description>
+		<image><![CDATA[Infant Blanket.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[Bi ]]></sku>
+		<item><![CDATA[Bibs ]]></item>
+		<price><![CDATA[$4.00]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Infant ]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Fabric: 100% cotton terry
+Reinforced two-snap closure]]></description>
+		<image><![CDATA[Bib.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[P]]></sku>
+		<item><![CDATA[Pacifier ]]></item>
+		<price><![CDATA[$5.00]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Infant ]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Hospital grade silicon, BPA Free 
+Dishwasher safe ]]></description>
+		<image><![CDATA[Pacifier.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[SC ]]></sku>
+		<item><![CDATA[Sippy Cups ]]></item>
+		<price><![CDATA[$4.00]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Infant]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[10oz 
+BPA Free 
+Spill proof lid ]]></description>
+		<image><![CDATA[Sippy Cup.png]]></image>
+	</node>
+	<node>
+		<sku><![CDATA[NB]]></sku>
+		<item><![CDATA[Nursing Bra ]]></item>
+		<price><![CDATA[$20.00]]></price>
+		<size><![CDATA[Universal]]></size>
+		<category><![CDATA[Infant]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Wire Free
+Each breast can be freed by a single button]]></description>
+		<image><![CDATA[Nursing Bra 2.png,Nursing Bra 3.png,Nursing Bra.png]]></image>
+	</node>
+</data>

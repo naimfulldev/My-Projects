@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[BTowel]]></sku>
+		<item><![CDATA[Bath Towel ]]></item>
+		<price><![CDATA[]]></price>
+		<size><![CDATA[]]></size>
+		<category><![CDATA[Hygiene]]></category>
+		<unitofmeasure><![CDATA[Each ]]></unitofmeasure>
+		<description><![CDATA[Hypoallergenic ]]></description>
+		<image><![CDATA[Bath Towel.png]]></image>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<sku><![CDATA[]]></sku>
+		<item><![CDATA[Bath Towel ]]></item>
+		<price><![CDATA[$6.00]]></price>
+		<size><![CDATA[20" x 40"]]></size>
+		<category><![CDATA[]]></category>
+		<unitofmeasure><![CDATA[]]></unitofmeasure>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Bath Towel.png]]></image>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<sku><![CDATA[]]></sku>
+		<item><![CDATA[Bath Towel ]]></item>
+		<price><![CDATA[$10 ]]></price>
+		<size><![CDATA[ 30" x 58" ]]></size>
+		<category><![CDATA[]]></category>
+		<unitofmeasure><![CDATA[]]></unitofmeasure>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Bath Towel.png]]></image>
+		<undefined8><![CDATA[]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+</data>

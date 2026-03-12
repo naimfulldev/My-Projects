@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[Boxer Briefs]]></item>
+		<sku><![CDATA[BB]]></sku>
+		<size><![CDATA[YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$28 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ]]></unit>
+		<color><![CDATA[Grey ]]></color>
+		<description><![CDATA[Ultra-soft cotton knit is preshrunk for a lasting fit. 
+Soft, stretchable waistband that moves with you and keeps its shape wash after wash.
+No Ride Up leg bands.
+100% Cotton
+]]></description>
+		<image><![CDATA[Boxer Briefs.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Boxers ]]></item>
+		<sku><![CDATA[BX ]]></sku>
+		<size><![CDATA[YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$28 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[Soft and breathable.
+Soft, stretchable waistband for all-day comfort.
+55% cotton/ 45% polyester]]></description>
+		<image><![CDATA[Boxer Briefs.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Briefs ]]></item>
+		<sku><![CDATA[B]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$28 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ ]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[Soft and breathable.
+Soft, stretchable waistband for all-day comfort.
+100% cotton]]></description>
+		<image><![CDATA[Briefs.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Girl's Underwear]]></item>
+		<sku><![CDATA[GU]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL]]></size>
+		<price><![CDATA[$28 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[This essential, everyday underwear boasts a soft, breathable 100% cotton construction for all-day comfort and gentle, elastic trim for a super-smooth, stay-in-place fit. Matching elastic trim. Mid rise. ]]></description>
+		<image><![CDATA[Girls_Women's Underwear.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Women's Underwear]]></item>
+		<sku><![CDATA[WU]]></sku>
+		<size><![CDATA[AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$28 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ ]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[This essential, everyday underwear boasts a soft, breathable 100% cotton construction for all-day comfort and gentle, elastic trim for a super-smooth, stay-in-place fit. Matching elastic trim. Mid rise. ]]></description>
+		<image><![CDATA[Girls_Women's Underwear.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Girl's Bra]]></item>
+		<sku><![CDATA[GB]]></sku>
+		<size><![CDATA[YS| YM| YL ]]></size>
+		<price><![CDATA[$6 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[Nylon/spandex. Adjustable straps. ]]></description>
+		<image><![CDATA[Women's Sports Bra.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Women's Bra ]]></item>
+		<sku><![CDATA[WB]]></sku>
+		<size><![CDATA[AS| AM| AL]]></size>
+		<price><![CDATA[$6 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[Ea ]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[Get active with our sports bra. Its soft construction feels ultra smooth and comfortable. Designed for all day comfort.
+90% nylon 10% spandex
+]]></description>
+		<image><![CDATA[Women's Sports Bra.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Ankle Socks]]></item>
+		<sku><![CDATA[AS]]></sku>
+		<size><![CDATA[0-12| 2-3| 4-6| 6-8| 9-11| 10-13]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ ]]></unit>
+		<color><![CDATA[Black| White| Grey ]]></color>
+		<description><![CDATA[These plain low cut socks are the perfect complement to your sneakers. They fit comfortably and will allow you to wear your footwear with style.
+98% polyester 2% spandex]]></description>
+		<image><![CDATA[Ankle Socks.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Crew Socks ]]></item>
+		<sku><![CDATA[CS]]></sku>
+		<size><![CDATA[0-12| 2-3| 4-6| 6-8| 9-11| 10-13]]></size>
+		<price><![CDATA[$12 ]]></price>
+		<category><![CDATA[Underwear]]></category>
+		<unit><![CDATA[DZ]]></unit>
+		<color><![CDATA[Black| White| Grey ]]></color>
+		<description><![CDATA[These plain crew cut socks are the perfect complement to your sneakers. They fit comfortably and will allow you to wear your footwear with style.
+80% cotton 15% polyester 5% elastic
+]]></description>
+		<image><![CDATA[Crew Socks.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Velcro Shoes ]]></item>
+		<sku><![CDATA[SV]]></sku>
+		<size><![CDATA[1| 2| 3| 4| 4.5| 5| 5.5| 6| 6.5| 7| 7.5| 8| 8.5| 9| 9.5| 10| 10.5| 11| 11.5| 12]]></size>
+		<price><![CDATA[$15 ]]></price>
+		<category><![CDATA[Footwear ]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Black| Grey ]]></color>
+		<description><![CDATA[Flat knit mesh upper 
+Stretch Velcro front panel for easy slip on fit
+Flexible traction outsole
+Super flexible shock absorbing lightweight midsole
+No Metal 
+]]></description>
+		<image><![CDATA[Grey Velcro.png,Black Velcro.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[No Lace Shoes ]]></item>
+		<sku><![CDATA[SNL]]></sku>
+		<size><![CDATA[1| 2| 3| 4| 5| 6| 7| 8| 9| 10| 11]]></size>
+		<price><![CDATA[$15 ]]></price>
+		<category><![CDATA[Footwear ]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Black]]></color>
+		<description><![CDATA[Flat knit mesh upper 
+Stretch Velcro front panel for easy slip on fit
+Flexible traction outsole
+Super flexible shock absorbing lightweight midsole
+No Metal ]]></description>
+		<image><![CDATA[Shoes No Laces.png,Shoes No Laces 2.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Lace Shoes ]]></item>
+		<sku><![CDATA[SL]]></sku>
+		<size><![CDATA[1| 2| 3| 4| 4.5| 5| 5.5| 6| 6.5| 7| 7.5| 8| 8.5| 9| 9.5| 10| 10.5| 11| 11.5| 12]]></size>
+		<price><![CDATA[$15 ]]></price>
+		<category><![CDATA[Footwear ]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Black]]></color>
+		<description><![CDATA[Flat knit mesh upper 
+Stretch Velcro front panel for easy slip on fit
+Flexible traction outsole
+Super flexible shock absorbing lightweight midsole
+No Metal ]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Clogs ]]></item>
+		<sku><![CDATA[C]]></sku>
+		<size><![CDATA[1| 2| 3| 4| 5| 6| 7| 8| 9| 10| 11| 12]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[Footwear ]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Black]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Eva Clogs.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Men's Jeans ]]></item>
+		<sku><![CDATA[MJ]]></sku>
+		<size><![CDATA[26x30| 28x30| 30x30| 32x30| 34x30| 36x30| 38x30]]></size>
+		<price><![CDATA[$14 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Denim Blue ]]></color>
+		<description><![CDATA[Classic denim blue color
+Skinny style
+67% Cotton, 30% Polyester, 3% Spandex
+]]></description>
+		<image><![CDATA[Jeans Front.png,Jeans Back.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Boy's Jeans]]></item>
+		<sku><![CDATA[BJ]]></sku>
+		<size><![CDATA[8| 10| 12| 14| 16]]></size>
+		<price><![CDATA[$14 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Denim Blue ]]></color>
+		<description><![CDATA[Classic denim blue color
+Skinny style
+67% Cotton, 30% Polyester, 3% Spandex
+]]></description>
+		<image><![CDATA[Jeans Front.png,Jeans Back.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Girl's Jeans]]></item>
+		<sku><![CDATA[GJ]]></sku>
+		<size><![CDATA[00| 0| 1| 2| 3| 4| 5| 6| 7| 8| 9| 11| 13| 15]]></size>
+		<price><![CDATA[$14 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Denim Blue ]]></color>
+		<description><![CDATA[Classic denim blue color
+Skinny style
+67% Cotton, 30% Polyester, 3% Spandex
+]]></description>
+		<image><![CDATA[Jeans Front.png,Jeans Back.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Mesh Shorts ]]></item>
+		<sku><![CDATA[MYXS]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$7 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Black ]]></color>
+		<description><![CDATA[Outer layer of 100% polyester tricot mesh
+Inner layer of 100% polyester tricot lining
+Covered elastic waistband with no Drawstring
+7-inch inseam
+]]></description>
+		<image><![CDATA[Mesh Shorts.png,Mesh Short 2.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[T-shirt]]></item>
+		<sku><![CDATA[T]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$3 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[5.3 oz., 100% cotton (unless otherwise noted).
+Preshrunk jersey knit
+Seamless double-needle 7/8" collar
+Taped neck and shoulders
+Double-needle sleeve and bottom hems
+Quarter-turned to eliminate center crease
+Classic fit]]></description>
+		<image><![CDATA[T Shirt.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Long Sleeve T-shirt]]></item>
+		<sku><![CDATA[LS]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[6.0 oz., 100% cotton (unless otherwise noted)
+Preshrunk jersey knit
+Seamless double-needle 7/8" collar
+Taped neck and shoulders
+Double-needle sleeve and bottom hems
+Quarter-turned to eliminate center crease
+Classic fit]]></description>
+		<image><![CDATA[Long Sleeve Tshirt .png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Polo ]]></item>
+		<sku><![CDATA[P]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[6.7 oz., 50% cotton/50% polyester
+Contoured welt collar and cuffs
+Double needle bottom hem
+Two buttons
+Banded sleeves]]></description>
+		<image><![CDATA[Polo Unisex.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Sweat Top ]]></item>
+		<sku><![CDATA[ST]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL ]]></size>
+		<price><![CDATA[$10 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Grey ]]></color>
+		<description><![CDATA[8-ounce,100% polyester
+Double-needle stitching at waistband and cuffs
+1x1 rib knit collar, cuffs and waistband with spandex]]></description>
+		<image><![CDATA[Sweat Top.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Sweat Bottom ]]></item>
+		<sku><![CDATA[SB]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL ]]></size>
+		<price><![CDATA[$10 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Grey ]]></color>
+		<description><![CDATA[8-ounce,100% polyester
+Covered elastic waistband with no drawstring
+Elastic cuffs
+Double-needle bottom hem
+No Pockets ]]></description>
+		<image><![CDATA[Sweat Bottom.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Hoodie Sweat Top]]></item>
+		<sku><![CDATA[H]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL ]]></size>
+		<price><![CDATA[$20 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Grey ]]></color>
+		<description><![CDATA[8-ounce, 50/50 cotton/poly
+Double-needle stitching at waistband and cuffs
+Double-lined hood with dyed-to-match drawcord
+1x1 rib knit cuffs and waistband with spandex
+Front pouch pocket]]></description>
+		<image><![CDATA[Hoodie.png,Hoodie 2.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Fleece Jacket ]]></item>
+		<sku><![CDATA[F]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$25 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[White| Blue| Green| Yellow| Navy| Red| Maroon|  Grey| Orange| Black| Brown]]></color>
+		<description><![CDATA[Dyed-to-match zippers and zipper pull
+Bottom hem with drawcord and toggles
+Front-zip pockets
+Non-roll elastic cuffs
+100% Polyester ]]></description>
+		<image><![CDATA[Fleece Jacket Back.png,Fleece Jacket Front.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Winter Jacket ]]></item>
+		<sku><![CDATA[WJ]]></sku>
+		<size><![CDATA[YXS| YS| YM| YL| YXL| AS| AM| AL| AXL]]></size>
+		<price><![CDATA[$30 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[Ea]]></unit>
+		<color><![CDATA[Black| Blue]]></color>
+		<description><![CDATA[Fleece lined
+100% Polyester]]></description>
+		<image><![CDATA[Winter Jacket.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Caps ]]></item>
+		<sku><![CDATA[Cap]]></sku>
+		<size><![CDATA[Youth| Adult ]]></size>
+		<price><![CDATA[$6 ]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Cap.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Soccer Balls ]]></item>
+		<sku><![CDATA[SB]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[Recreation]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Soccer Ball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Basket Balls ]]></item>
+		<sku><![CDATA[BB]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[Recreation]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Basketball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Volleyball]]></item>
+		<sku><![CDATA[VB]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[Recreation]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Volleyball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Water Bottle ]]></item>
+		<sku><![CDATA[WB]]></sku>
+		<size><![CDATA[20 oz ]]></size>
+		<price><![CDATA[$2 ]]></price>
+		<category><![CDATA[Hygiene]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Laundry Bag ]]></item>
+		<sku><![CDATA[LB]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Laundry Bag.png,Laundry Bag 2.png,Laundry Bag 3.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Mattress & Pillow Cover ]]></item>
+		<sku><![CDATA[MPC]]></sku>
+		<size><![CDATA[Twin ]]></size>
+		<price><![CDATA[$10 ]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Gym Bag]]></item>
+		<sku><![CDATA[GB]]></sku>
+		<size><![CDATA[24" ]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Beanie ]]></item>
+		<sku><![CDATA[B]]></sku>
+		<size><![CDATA[Youth| Adult ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Beanie.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Gloves ]]></item>
+		<sku><![CDATA[G]]></sku>
+		<size><![CDATA[Youth| Adult ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Gloves.png]]></image>
+	</node>
+</data>

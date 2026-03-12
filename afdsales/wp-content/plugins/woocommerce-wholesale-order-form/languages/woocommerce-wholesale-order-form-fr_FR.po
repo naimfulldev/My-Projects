@@ -1,0 +1,2576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Wholesale Order Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-15 09:29+0800\n"
+"PO-Revision-Date: 2021-11-15 09:29+0800\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: includes/class-wwof-ajax.php:111 includes/class-wwof-settings.php:19
+#: includes/class-wwof-wws-license-manager.php:178
+msgid "Wholesale Ordering"
+msgstr "Commande en gros"
+
+#: includes/class-wwof-ajax.php:125
+msgid "Failed to create wholesale ordering page."
+msgstr "Échec de création de la page de commande en gros."
+
+#: includes/class-wwof-ajax.php:409
+#, php-format
+msgid ""
+"The following categories does not exist: %s<br><em>Only shop manager and "
+"administrator roles can view this message</em>."
+msgstr ""
+"Les catégories suivantes n’existent pas: %s<br><em>Seuls les rôles "
+"gestionnaire de boutique et administrateur peuvent voir ce message</em>."
+
+#: includes/class-wwof-ajax.php:867
+msgid "No Product Details Available"
+msgstr "Aucun détail de produit disponible"
+
+#: includes/class-wwof-ajax.php:940
+msgid "Trying to add a variable product with no variation provided"
+msgstr "Tentative d’ajout de produit à variations sans founir de variation"
+
+#: includes/class-wwof-ajax.php:953 includes/class-wwof-ajax.php:1014
+#: includes/class-wwof-ajax.php:1204 includes/class-wwof-ajax.php:1300
+#, php-format
+msgid ""
+"Couldn't add <b>%1$s</b> to cart, selected quantity exceeds available stock "
+"amount <b>(%2$s)</b>."
+msgstr ""
+"Ajout au panier de <b>%1$s</b> impossible, la quantité sélectionnée excède "
+"la quantité disponible en stock <b>(%2$s)</b>."
+
+#: includes/class-wwof-ajax.php:962 includes/class-wwof-ajax.php:998
+#: includes/class-wwof-ajax.php:1023 includes/class-wwof-ajax.php:1221
+#: includes/class-wwof-ajax.php:1253 includes/class-wwof-ajax.php:1316
+#: includes/class-wwof-ajax.php:1337
+#, php-format
+msgid "Failed to add <b>%1$s</b> to cart."
+msgstr "Échec d’ajout de <b>%1$s</b> au panier."
+
+#: includes/class-wwof-ajax.php:1059
+#, php-format
+msgid "Failed to add <b>%1$s</b> to cart"
+msgstr "Échec d’ajout de <b>%1$s</b> au panier"
+
+#: includes/class-wwof-ajax.php:1066 includes/class-wwof-ajax.php:1349
+msgid "Failed to add product to cart"
+msgstr "Échec d’ajout du produit au panier"
+
+#: includes/class-wwof-ajax.php:1154
+msgid ""
+"Contains invalid variation id. Either empty, not numeric or less than zero"
+msgstr ""
+"Contient un id de variation invalide. Soit vide, non numérique ou inférieur "
+"à zéro."
+
+# A valider
+#: includes/class-wwof-ajax.php:1177 includes/class-wwof-ajax.php:1276
+#, php-format
+msgid ""
+"Couldn't add <b>%1$s</b> to cart, required product add-ons not filled.<br>"
+"%2$s"
+msgstr ""
+"Ajout au panier de <b>%1$s</b> impossible, options produits non remplies.<br>"
+"%2$s"
+
+#: includes/class-wwof-ajax.php:1242
+#, php-format
+msgid "Failed to add <b>%1$s</b> to cart. The entered quantity is invalid."
+msgstr ""
+"Échec d’ajout de <b>%1$s</b> au panier. La quantité entrée est invalide."
+
+#: includes/class-wwof-bootstrap.php:371
+msgid "License"
+msgstr "Licence"
+
+#: includes/class-wwof-bootstrap.php:376
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:176
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/class-wwof-bootstrap.php:379
+msgid "Getting Started"
+msgstr "Bien démarrer"
+
+#: includes/class-wwof-cache.php:301
+#: includes/class-wwof-wws-license-manager.php:220
+#: includes/class-wwof-wws-license-manager.php:381
+msgid "Invalid AJAX Operation"
+msgstr "Operation AJAX invalide"
+
+#: includes/class-wwof-cache.php:303
+#: includes/class-wwof-wws-license-manager.php:228
+msgid "Security check failed"
+msgstr "Échec de la vérification de sécurité"
+
+#: includes/class-wwof-cache.php:309
+msgid "Successfully cleared all products transients cache"
+msgstr "Cache des transients de produits effacé avec succès"
+
+#: includes/class-wwof-functions.php:358
+msgid "Category:"
+msgstr "Catégorie :"
+
+#: includes/class-wwof-product-listing.php:400
+#, php-format
+msgid "Min: %s of any variation combination"
+msgstr "Min: %s d’une combinaison de n’importe quels variations de produits"
+
+#: includes/class-wwof-product-listing.php:482
+msgid "Variations:"
+msgstr "Variations:"
+
+#: includes/class-wwof-product-listing.php:712
+msgid "Product Add-ons"
+msgstr "Modules produit"
+
+#: includes/class-wwof-product-listing.php:960
+msgid "<em>Unavailable</em>"
+msgstr "<em>Indisponible</em>"
+
+#: includes/class-wwof-product-listing.php:983
+#: includes/class-wwof-product-listing.php:994
+#: includes/class-wwof-wwp-wholesale-prices.php:343
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:279
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:300
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:622
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:628
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:649
+msgid "Out of Stock"
+msgstr "Rupture de stock"
+
+#: includes/class-wwof-product-listing.php:986
+#: includes/class-wwof-product-listing.php:988
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:275
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:611
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:618
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:648
+msgid "Add To Cart"
+msgstr "Ajouter au panier"
+
+#: includes/class-wwof-product-listing.php:1029
+#, php-format
+msgid "%1$s Previous"
+msgstr "%1$s précédent"
+
+#: includes/class-wwof-product-listing.php:1030
+#, php-format
+msgid "Next %1$s"
+msgstr "%1$s suivant"
+
+#: includes/class-wwof-product-listing.php:1070
+#: includes/class-wwof-product-listing.php:1076
+msgid "Subtotal: "
+msgstr "Sous-total :"
+
+#: includes/class-wwof-product-listing.php:1081
+msgid "Cart Empty"
+msgstr "Panier vide"
+
+#: includes/class-wwof-scripts.php:116
+msgid "Failed to clear query args cache"
+msgstr "Échec d’effacement du cache d’arguments de requête"
+
+#: includes/class-wwof-scripts.php:128
+msgid "Wholesale Ordering Page Created Successfully"
+msgstr "Page de commande en gros créée avec succès"
+
+#: includes/class-wwof-scripts.php:129
+msgid "Failed To Create Wholesale Ordering Page"
+msgstr "Échec de création de la page de commande en gros"
+
+#: includes/class-wwof-scripts.php:152
+msgid "Wholesale Ordering License Details Successfully Saved"
+msgstr "Détails de la licence de commande en gros sauvegardée avec succès"
+
+#: includes/class-wwof-scripts.php:153
+msgid "Failed To Save Wholesale Ordering License Details"
+msgstr "Échec d’enregistrement des détails de licence de commande en gros"
+
+#: includes/class-wwof-scripts.php:217
+msgid "No variation selected"
+msgstr "Aucune variation sélectionnée"
+
+#: includes/class-wwof-scripts.php:218
+msgid "Errors occured while adding selected products."
+msgstr "Erreurs rencontrées lors de l’ajout des produits sélectionnés."
+
+#: includes/class-wwof-scripts.php:219
+msgid "Please choose the quantity of items you wish to add to your cart…"
+msgstr ""
+"Veuillez choisir la quantité que vous souhaitez ajouter à votre panier…"
+
+#: includes/class-wwof-scripts.php:220
+msgid "Please enter a valid value."
+msgstr "Veuillez entrer une valeur valide."
+
+#: includes/class-wwof-scripts.php:221
+msgid ""
+"Please enter a valid value. The two nearest valid values are {low} and {high}"
+msgstr ""
+"Veuillez entrer une valeur valide. Les plus proches valeurs valides sont "
+"(basse) et (haute)"
+
+#: includes/class-wwof-scripts.php:222
+msgid ""
+"Please enter a valid value. The entered value is either lower than the "
+"allowed minimum ({min}) or higher than the allowed maximum ({max})."
+msgstr ""
+"Veuillez entrer une valeur valide. La valeur entrée est soit inférieure au "
+"minimum autorisé ((min)) soit supérieure au maximum autorisé ((max))."
+
+#: includes/class-wwof-scripts.php:223
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:675
+msgid "View Cart"
+msgstr "Voir le panier"
+
+#: includes/class-wwof-settings.php:47
+msgid "General"
+msgstr "Général"
+
+#: includes/class-wwof-settings.php:48
+msgid "Filters"
+msgstr "Filtres"
+
+#: includes/class-wwof-settings.php:49
+msgid "Permissions"
+msgstr "Permissions"
+
+#: includes/class-wwof-settings.php:50
+msgid "Cache"
+msgstr "Cache"
+
+#: includes/class-wwof-settings.php:51
+msgid "Beta"
+msgstr "Bêta"
+
+#: includes/class-wwof-settings.php:52
+msgid "Help"
+msgstr "Aide"
+
+#: includes/class-wwof-settings.php:252
+#: woocommerce-wholesale-order-form.options.php:68
+msgid "Default Sorting"
+msgstr "Tri par défaut"
+
+#: includes/class-wwof-settings.php:253
+#: woocommerce-wholesale-order-form.options.php:69
+msgid "Custom Ordering (menu order) + Name"
+msgstr "Ordre personnalisé (ordre du menu) + Nom"
+
+#: includes/class-wwof-settings.php:254
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:390
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:157
+#: woocommerce-wholesale-order-form.options.php:70
+msgid "Name"
+msgstr "Nom"
+
+#: includes/class-wwof-settings.php:257
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:158
+#: woocommerce-wholesale-order-form.options.php:73
+msgid "Sort by Date"
+msgstr "Trier par date"
+
+#: includes/class-wwof-settings.php:258
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:296
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:550
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:607
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:159
+#: templates/wwof-product-listing-alternate-lazyload.php:17
+#: templates/wwof-product-listing-alternate.php:20
+#: templates/wwof-product-listing-lazyload.php:20
+#: templates/wwof-product-listing.php:19
+#: woocommerce-wholesale-order-form.options.php:74
+msgid "SKU"
+msgstr "UGS"
+
+#: includes/class-wwof-settings.php:265
+msgid "Display & Style"
+msgstr "Affichage & Style"
+
+#: includes/class-wwof-settings.php:267
+msgid ""
+"These settings describe the way the order form is displayed to your "
+"customers."
+msgstr ""
+"Ces paramètres décrivent la façon dont le formulaire de commande est affiché "
+"à vos clients."
+
+#: includes/class-wwof-settings.php:272
+msgid "Order Form Style"
+msgstr "Style du formulaire de commande"
+
+#: includes/class-wwof-settings.php:277
+msgid ""
+"Standard (Add to cart per row) - shows an add to cart button per row which "
+"is faster for customers."
+msgstr ""
+"Standard (Ajout au panier par ligne)  - affiche un bouton Ajouter au panier "
+"par ligne ce qui est plus rapide pour les clients."
+
+#: includes/class-wwof-settings.php:278
+msgid ""
+"Alternate (Add to cart at bottom) - select boxes per row with an add to cart "
+"button at the bottom of the form."
+msgstr ""
+"Alternatif (Ajouter au panier en bas) - des coches de sélection par ligne et "
+"un bouton Ajouter au panier au bas du formulaire."
+
+#: includes/class-wwof-settings.php:283
+msgid "Order Form Paging Style"
+msgstr "Style de page du formulaire de commande"
+
+#: includes/class-wwof-settings.php:288
+msgid "Paginated - split results into pages based on the products per page."
+msgstr ""
+"Paginé - divise les résultats en pages selon ne nombre de produits par page."
+
+#: includes/class-wwof-settings.php:289
+msgid ""
+"Lazy Loading - more results are loaded into the page based on the user "
+"scrolling."
+msgstr ""
+"Chargement paresseux - plus de produits sont chargés dans la page à mesure "
+"que l’utilisateur la fait défiler."
+
+#: includes/class-wwof-settings.php:294
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:398
+msgid "Products Per Page"
+msgstr "Produits par page"
+
+#: includes/class-wwof-settings.php:296
+msgid ""
+"The number of products loaded per page if paginated or the number of "
+"products fetched at a time during scrolling when lazy loading."
+msgstr ""
+"Le nombre de produits chargés par page si paginé ou le nombre de produits "
+"récupérés à chaque fois pendant le défilement en cas de chargement paresseux."
+
+#: includes/class-wwof-settings.php:303
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:184
+msgid "Show Variations Individually"
+msgstr "Montrer les variations de produits individuellement"
+
+#: includes/class-wwof-settings.php:305
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:186
+msgid ""
+"Enabling this setting will list down each product variation individually and "
+"have its own row in the wholesale order form."
+msgstr ""
+"Activer ce paramètre listera chaque variation de produit individuellement "
+"ainsi chacune aura sa propre ligne dans le formulaire de commande en gros."
+
+#: includes/class-wwof-settings.php:310
+msgid "Product Click Action"
+msgstr "Action du clic sur le produit"
+
+#: includes/class-wwof-settings.php:315
+msgid ""
+"Navigate To Single Product Page - takes the user to the single product page "
+"for that product."
+msgstr ""
+"Naviguer vers la page produit - amène l’utilisateur sur la page produit "
+"simple de ce produit."
+
+#: includes/class-wwof-settings.php:316
+msgid ""
+"Show A Product Details Popup - shows the user a popup without leaving the "
+"page."
+msgstr ""
+"Afficher les détails produit dans une fenêtre - montre à l’utilisateur une "
+"fenêtre surgissante sans quitter la page."
+
+#: includes/class-wwof-settings.php:321
+msgid "Display Extra Columns"
+msgstr "Afficher des colonnes en plus"
+
+#: includes/class-wwof-settings.php:323
+#: templates/wwof-product-listing-alternate-lazyload.php:19
+#: templates/wwof-product-listing-alternate.php:22
+msgid "Stock Quantity"
+msgstr "Quantité en stock"
+
+#: includes/class-wwof-settings.php:331
+msgid "Product SKU"
+msgstr "UGS du produit"
+
+#: includes/class-wwof-settings.php:339
+msgid "Product Thumbnail"
+msgstr "Vignette du produit"
+
+#: includes/class-wwof-settings.php:345
+msgid "Product Thumbnail Size"
+msgstr "Taille de vignette du produit"
+
+#: includes/class-wwof-settings.php:358
+msgid "Show Cart Subtotal"
+msgstr "Afficher le sous-total du panier"
+
+#: includes/class-wwof-settings.php:360
+msgid "Shows the current cart subtotal at the bottom of the form."
+msgstr "Affiche le sous-total courant du panier en bas du formulaire."
+
+#: includes/class-wwof-settings.php:365
+msgid "Hide Wholesale Quantity Based Pricing Tables"
+msgstr "Cacher les tables de prix de gros en fonction de la quantité"
+
+#: includes/class-wwof-settings.php:367
+msgid ""
+"If a product has additional quantity based pricing a table is normally shown "
+"which can take a lot of vertical space. When checked, this will hide that "
+"table."
+msgstr ""
+"Si un produit bénéficie de prix de gros en fonction de la quantité une table "
+"est normalement affichée ce qui prend beaucoup d’espace verticalement. Quand "
+"l’option est cochée, la table est cachée."
+
+#: includes/class-wwof-settings.php:372
+msgid "Show Wholesale Order Requirements"
+msgstr "Afficher les conditions de commande en gros"
+
+#: includes/class-wwof-settings.php:374
+msgid ""
+"If minimum order requirements are defined in WooCommerce Wholesale Prices "
+"Premium, show a notice at the top of the form to let customers know what "
+"they have to do."
+msgstr ""
+"Si des conditions minimales de commande sont définies dans WooCommerce "
+"Wholesale Prices Premium, affiche une notification en tête du formulaire "
+"pour informer les clients de ce qu’ils ont à faire."
+
+#: includes/class-wwof-settings.php:378
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:227
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:235
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/class-wwof-settings.php:379
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:228
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:236
+msgid "No"
+msgstr "Non"
+
+#: includes/class-wwof-settings.php:390
+msgid "Search & Filtering"
+msgstr "Recherche & Filtrage"
+
+#: includes/class-wwof-settings.php:392
+msgid ""
+"These settings related to the searchability and filterability of the order "
+"form as well as the sorting."
+msgstr ""
+"Les paramètres liés à la recherche et au filtrage du formulaire de commande "
+"mais également au tri."
+
+#: includes/class-wwof-settings.php:397
+msgid "Allow Zero Inventory Products"
+msgstr "Permettre les produits sans inventaire"
+
+#: includes/class-wwof-settings.php:399
+msgid "Let products with no inventory be shown in the form."
+msgstr ""
+"Permet aux produits sans inventaire d’être affichés dans le formulaire."
+
+#: includes/class-wwof-settings.php:404
+msgid "Allow Search By SKU"
+msgstr "Permettre la recherche par UGS"
+
+#: includes/class-wwof-settings.php:406
+msgid "Let customers search for products by their product SKU."
+msgstr "Permet aux clients de rechercher les produits par leur numéro UGS."
+
+#: includes/class-wwof-settings.php:411
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:150
+msgid "Product Sorting"
+msgstr "Tri des produits"
+
+#: includes/class-wwof-settings.php:413
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:152
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:167
+msgid "Changes how products are sorted on the form."
+msgstr "Change la façon dont les produits sont triés dans le formulaire."
+
+#: includes/class-wwof-settings.php:420
+msgid "Product Sort Order"
+msgstr "Ordre de tri des produits"
+
+#: includes/class-wwof-settings.php:426
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:658
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:171
+msgid "Ascending"
+msgstr "Croissant"
+
+#: includes/class-wwof-settings.php:427
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:659
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:172
+msgid "Descending"
+msgstr "Décroissant"
+
+#: includes/class-wwof-settings.php:437
+msgid "Misc"
+msgstr "Divers"
+
+#: includes/class-wwof-settings.php:439
+msgid ""
+"These settings handle other miscellaneous parts of the way your order form "
+"works."
+msgstr ""
+"Ces paramètres gèrent divers autres aspects du fonctionnement de votre "
+"formulaire."
+
+#: includes/class-wwof-settings.php:444
+msgid "Cart Subtotal Tax"
+msgstr "Sous-total des taxes du panier"
+
+#: includes/class-wwof-settings.php:446
+msgid ""
+"Choose if the cart subtotal should display including or excluding taxes. "
+"This is only used if you have the <i>Show Cart Subtotal</i> setting turned "
+"on."
+msgstr ""
+"Choisissez si le sous-total panier doit inclure les taxes ou non. Ceci est "
+"uniquement utilisé si vous avez activé <i>Afficher le sous-total du panier</"
+"i>."
+
+#: includes/class-wwof-settings.php:450
+msgid "Including tax"
+msgstr "Taxes inclues"
+
+# x
+#: includes/class-wwof-settings.php:451
+msgid "Excluding tax"
+msgstr "Hors taxes"
+
+#: includes/class-wwof-settings.php:491
+msgid "No Default"
+msgstr "Aucune valeur par défaut"
+
+#: includes/class-wwof-settings.php:496
+msgid "Product Filtering"
+msgstr "Filtrage produit"
+
+#: includes/class-wwof-settings.php:498
+msgid ""
+"The filtering options below control which products are shown or not shown on "
+"the order form."
+msgstr ""
+"Les options de filtrage ci-dessous contrôlent quels produits sont affichés "
+"ou non dans le formulaire de commande."
+
+#: includes/class-wwof-settings.php:503
+msgid "Filter Product Categories"
+msgstr "Filtrer les catégories produit"
+
+#: includes/class-wwof-settings.php:505
+msgid ""
+"Tell the order form which categories it should draw products from and don't "
+"show products from any other categories. Leave this empty to show products "
+"from all categories."
+msgstr ""
+"Dit au formulaire de commande de quelles catégories il devrait afficher les "
+"produits et masquer ceux de toutes autres catégories. Laisser vide pour "
+"afficher les produits de toutes les catégories."
+
+#: includes/class-wwof-settings.php:511
+msgid "Select Some Product Categories..."
+msgstr "Sélectionnez des catégories de produits…"
+
+#: includes/class-wwof-settings.php:517
+msgid "Default Category Filter"
+msgstr "Filtre de catégorie par défaut"
+
+#: includes/class-wwof-settings.php:519
+msgid ""
+"Pre-filter the order form on load by specifying a default category on the "
+"search box."
+msgstr ""
+"Pré-filtre le formulaire de commande au chargement en spécifiant une "
+"catégorie par défaut dans la boîte de recherche."
+
+#: includes/class-wwof-settings.php:527
+msgid "Exclude Products"
+msgstr "Exclure des produits"
+
+#: includes/class-wwof-settings.php:529
+msgid "Specify specific products to hide from the order form product list."
+msgstr ""
+"Définit des produits spécifiques à masquer dans la liste de produits du "
+"formulaire de commande."
+
+#: includes/class-wwof-settings.php:534
+msgid "Select Some Products..."
+msgstr "Sélectionnez des produits…"
+
+#: includes/class-wwof-settings.php:569
+msgid "Permissions Options"
+msgstr "Options de permissions"
+
+#: includes/class-wwof-settings.php:576
+msgid "User Role Filter"
+msgstr "Filtre de rôles utilisateurs"
+
+#: includes/class-wwof-settings.php:578
+msgid ""
+"Only allow a given user role/s to access the wholesale page. Left blank to "
+"disable filter."
+msgstr ""
+"Autorise uniquement le(s) rôle(s) défini(s) à accéder à la page grossiste. "
+"Laisser vide pour désactiver ce filtre."
+
+#: includes/class-wwof-settings.php:585
+msgid "Select Some User Roles..."
+msgstr "Sélectionnez des rôles utilisateurs…"
+
+#: includes/class-wwof-settings.php:596
+msgid "Access Denied Message"
+msgstr "Message d’accès refusé"
+
+#: includes/class-wwof-settings.php:598
+msgid ""
+"Message to display to users who do not have permission to access the "
+"wholesale order form."
+msgstr ""
+"Message à afficher aux utilisateurs qui n’ont pas la permission d’accéder au "
+"formulaire de commande en gros."
+
+#: includes/class-wwof-settings.php:603
+msgid "Title"
+msgstr "Titre"
+
+#: includes/class-wwof-settings.php:605
+msgid "Defaults to <b>\"Access Denied\"</b> if left blank"
+msgstr "Par défaut <b>\"Accès refusé\"</b> si laissé vide"
+
+#: includes/class-wwof-settings.php:612
+msgid "Message"
+msgstr "Message"
+
+#: includes/class-wwof-settings.php:614
+msgid ""
+"Defaults to <b>\"You do not have permission to view wholesale product listing"
+"\"</b> if left blank"
+msgstr ""
+"Par défaut <b>\"Vous n’avez pas la permission de voir la liste des produits "
+"grossistes\"</b> si laissé vide"
+
+#: includes/class-wwof-settings.php:621
+msgid "Login URL"
+msgstr "URL de connexion"
+
+#: includes/class-wwof-settings.php:623
+msgid "URL of the login page. Uses default WordPress login URL if left blank"
+msgstr ""
+"URL de la page de connexion. Utilise l’URL de la page de connexion par "
+"défaut de WordPress si laissé vide"
+
+#: includes/class-wwof-settings.php:650
+msgid "Beta Options"
+msgstr "Options bêta"
+
+#: includes/class-wwof-settings.php:652
+msgid ""
+"This beta form feature is a preview of the new version of the Order Form we "
+"are building using React JS (a newer and more flexible technology).<br/><br/"
+"><a href='https://wholesalesuiteplugin.com/order-form-beta-early-access/' "
+"target='_blank'>Please see these instructions</a> for how to enable and test "
+"a beta form on the front end of your website.<br/><br/>Warning: This is a "
+"beta feature we're making available for early access. As such some "
+"integrations and features may be incomplete or not working to the same "
+"standard as the current stable form. By enabling you acknowledge you are "
+"using it at your own risk. We don't recommend using it for production "
+"environments as yet."
+msgstr ""
+"Cette fonctionnalité de formulaire en bêta est un aperçu de la nouvelle "
+"version de Order Form que nous construisons avec React JS (une technologie "
+"plus récente et plus flexible).<a href='https://wholesalesuiteplugin.com/"
+"order-form-beta-early-access/' target='_blank'>Veuillez lire ces "
+"instructions</a> sur comment activer et tester le formulaire en bêta sur "
+"votre site.<br/><br/>Avertissement: Ceci est une fonctionnalité beta que "
+"nous rendons disponible pour un accès anticipé. En tant que telle certaines "
+"intégrations et fonctionnalités peuvent être incomplètes ou ne pas être au "
+"niveau fonctionnel de la version stable du formulaire. En activant ceci vous "
+"reconnaissez l’utiliser à vos propres risques. En l’état, nous ne "
+"recommandons pas son usage pour des environnements de production."
+
+#: includes/class-wwof-settings.php:657
+msgid "Enable React JS Order Form"
+msgstr "Activer le formulaire de commande en React JS"
+
+#: includes/class-wwof-settings.php:659
+msgid ""
+"If checked, you will be able to use the new more efficient order form "
+"powered by React JS. To display the new order form please use this shortcode "
+"<code>[wwof_product_listing beta=\"true\"]</code>"
+msgstr ""
+"Si coché, vous serez en mesure d’utiliser un formulaire plus efficace "
+"propulsé par React JS. Pour afficher le nouveau formulaire veuillez utiliser "
+"le code court <code>[wwof_product_listing beta=\"true\"]</code>"
+
+#: includes/class-wwof-settings.php:669
+msgid "WooCommerce API"
+msgstr "API WooCommerce"
+
+#: includes/class-wwof-settings.php:671
+msgid ""
+"Create consumer key and secret in WooCommerce > Settings > Advanced > REST "
+"API"
+msgstr ""
+"Créez une clé client et un secret client dans WooCommerce > Réglages > "
+"Avancé > API REST"
+
+#: includes/class-wwof-settings.php:676
+msgid "API Status"
+msgstr "État de l’API"
+
+#: includes/class-wwof-settings.php:678
+msgid "Check API Status"
+msgstr "Vérifier l’état de l’API"
+
+#: includes/class-wwof-settings.php:683
+msgid "Consumer Key"
+msgstr "Clé client"
+
+#: includes/class-wwof-settings.php:685
+msgid "WooCommerce API consumer key"
+msgstr "Clé client API WooCommerce"
+
+#: includes/class-wwof-settings.php:691
+msgid "Consumer Secret"
+msgstr "Secret client"
+
+#: includes/class-wwof-settings.php:693
+msgid "WooCommerce API Consumer Secret"
+msgstr "Secret client WooCommerce"
+
+#: includes/class-wwof-settings.php:699
+msgid "Generate API Keys"
+msgstr "Générer les clés API"
+
+#: includes/class-wwof-settings.php:701
+msgid "Auto Generate"
+msgstr "Génération automatique"
+
+#: includes/class-wwof-settings.php:703
+msgid ""
+"This button will show up if keys are empty or invalid. Once the keys are "
+"generated it is saved directly."
+msgstr ""
+"Ce bouton s'affichera si les clés sont vides ou invalides. Une fois les clés "
+"générées, elles sont enregistrées directement."
+
+#: includes/class-wwof-settings.php:729
+msgid "Cache Options"
+msgstr "Options de cache"
+
+#: includes/class-wwof-settings.php:736
+msgid "Enable product caching"
+msgstr "Activer le cache produit"
+
+#: includes/class-wwof-settings.php:738
+msgid ""
+"When enabled, the order form will cache product IDs and product variation "
+"IDs in a cache to dramatically decrease the load time. This is especially "
+"useful for large product catalogs."
+msgstr ""
+"Quand activé, le formulaire de commande mettre en cache les IDs de produits "
+"et les IDs des produits à variations pour réduire drastiquement le temps de "
+"chargement. Particulièrement utile pour les catalogues produits importants."
+
+#: includes/class-wwof-settings.php:770
+msgid "Help Options"
+msgstr "Options d’aide"
+
+#: includes/class-wwof-settings.php:784
+msgid "Create Wholesale Ordering Page"
+msgstr "Créer la page de commande en gros"
+
+#: includes/class-wwof-settings.php:786
+msgid "Create Page"
+msgstr "Créer la page"
+
+#: includes/class-wwof-settings.php:793
+msgid "Clean up plugin options on un-installation"
+msgstr "Effacer les options de l’extension à la désinstallation"
+
+#: includes/class-wwof-settings.php:795
+msgid ""
+"If checked, removes all plugin options when this plugin is uninstalled. "
+"<b>Warning:</b> This process is irreversible."
+msgstr ""
+"Si coché, supprime toutes les options de l’extension quand elle est "
+"désinstallée. <b>Avertissement:</b> Ce processus est irréversible."
+
+#: includes/class-wwof-settings.php:942
+msgid "Knowledge Base"
+msgstr "Base de connaissance"
+
+#: includes/class-wwof-settings.php:945
+#, php-format
+msgid ""
+"Looking for documentation? Please see our growing <a href=\"%1$s\" target="
+"\"_blank\">Knowledge Base</a>"
+msgstr ""
+"A la recherche de documentation? Veuillez consulter notre <a href=\"%1$s\" "
+"target=\"_blank\">Base de connaissance</a> grandissante."
+
+#: includes/class-wwof-settings.php:994
+msgid "Clear product cache"
+msgstr "Effacer le cache produit"
+
+#: includes/class-wwof-settings.php:997
+msgid "Clear Cache"
+msgstr "Effacer le cache"
+
+#: includes/class-wwof-settings.php:999
+msgid ""
+"Clear both the product ID and variation ID caches. Caches are automatically "
+"rebuilt and maintained by the system."
+msgstr ""
+"Efface les caches d’ID produit et d’ID de variations. Ces caches sont "
+"automatiquement reconstruits et maintenus par le système."
+
+#: includes/class-wwof-settings.php:1054
+msgid "API keys are valid."
+msgstr "Les clés API sont valides."
+
+#: includes/class-wwof-settings.php:1055
+msgid "Please enter a valid API keys."
+msgstr "Veuillez saisir une clé API valide."
+
+#: includes/class-wwof-shortcode.php:111
+#: includes/v2/class-order-form-shortcode.php:145
+msgid "Access Denied"
+msgstr "Accès refusé"
+
+#: includes/class-wwof-shortcode.php:114
+#: includes/v2/class-order-form-shortcode.php:149
+msgid "You do not have permission to view wholesale product listing"
+msgstr "Vous n’avez pas la permission de voir la liste des produits grossistes"
+
+#: includes/class-wwof-shortcode.php:122
+#: includes/v2/class-order-form-shortcode.php:160
+msgid "Login Here"
+msgstr "Connectez-vous ici"
+
+#: includes/class-wwof-wwp-wholesale-prices.php:385
+#, php-format
+msgid ""
+"<b>NOTE:</b> A minimum order quantity of <b>%1$s</b> %2$s minimum order "
+"subtotal of <b>%3$s</b> is required to activate wholesale pricing in the "
+"cart."
+msgstr ""
+"<b>REMARQUE :</b> Une quantité minimale de commande de <b>%1$s</b> %2$s sous-"
+"total de commande minimum de <b>%3$s</b> est requise pour activer les prix "
+"de gros dans le panier."
+
+#: includes/class-wwof-wwp-wholesale-prices.php:387
+#, php-format
+msgid ""
+"<b>NOTE:</b> A minimum order quantity of <b>%1$s</b> is required to activate "
+"wholesale pricing in the cart."
+msgstr ""
+"<b>Note</b>: Une quantité de commande minimale de <b>%1$s</b> est requise "
+"pour activer les prix de gros dans le panier."
+
+#: includes/class-wwof-wwp-wholesale-prices.php:389
+#, php-format
+msgid ""
+"<b>NOTE:</b> A minimum order subtotal of <b>%1$s</b> is required to activate "
+"wholesale pricing in the cart."
+msgstr ""
+"<b>Note</b>: Un sous-total de commande minimal de <b>%1$s</b> est requis "
+"pour activer les prix de gros dans le panier."
+
+#: includes/class-wwof-wws-license-manager.php:88
+#: includes/class-wwof-wws-license-manager.php:89
+#: includes/class-wwof-wws-license-manager.php:124
+msgid "WWS License"
+msgstr "Licence WWS"
+
+#: includes/class-wwof-wws-license-manager.php:123
+msgid "WooCommerce WholeSale Suit License Settings"
+msgstr "Paramètres de licence de la suite WooCommerce WholeSale"
+
+#: includes/class-wwof-wws-license-manager.php:224
+msgid "Required parameters not supplied"
+msgstr "Paramètres requis non fournis"
+
+#: includes/class-wwof-wws-license-manager.php:270
+msgid ""
+"Failed to activate license. Failed to connect to activation access point. "
+"Please contact plugin support."
+msgstr ""
+"Échec d’activation de licence. Échec de connexion au point d’accès "
+"d’activation. Veuillez contacter le support de l’extension."
+
+#: includes/class-wwof-wws-license-manager.php:284
+msgid ""
+"Failed to activate license. Activation access point return invalid response. "
+"Please contact plugin support."
+msgstr ""
+"Échec d’activation de licence. Le point d’accès d’activation a retourné une "
+"réponse invalide. Veuillez contacter le support de l’extension."
+
+#: includes/class-wwof-wws-license-manager.php:444
+#, php-format
+msgid ""
+"Please <b><a href=\"%1$s\">activate</a></b> your copy of <b>WooCommerce "
+"Wholesale Order Form</b> to get the latest updates and have access to "
+"support."
+msgstr ""
+"Veuillez <b><a href=\"%1$s\">activer</a></b> votre copie de <b>WooCommerce "
+"Wholesale Order Form</b> pour bénéficier des dernières mises à jour et du "
+"support."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:126
+msgid "Add Form"
+msgstr "Ajouter un formulaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:127
+#: includes/v2/class-order-form-cpt.php:54
+#: includes/v2/class-order-form-cpt.php:112
+#: includes/v2/class-order-form-cpt.php:114
+#: includes/v2/class-order-form-cpt.php:116
+#: includes/v2/class-order-form-cpt.php:128
+msgid "Order Forms"
+msgstr "Formulaires de commande"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:128
+msgid ""
+"Below is a list of all the order forms for displaying products that you have "
+"on your store. Click each form to edit it's characteristics or add a new "
+"form using the button above. Forms can be placed on pages via the given "
+"shortcode or via an editor block. Forms can be reused on multiple pages and "
+"you can also query what pages each form appears on."
+msgstr ""
+"Vous trouverez ci-dessous une liste de tous les formulaires de commande pour "
+"afficher les produits que vous avez dans votre magasin. Cliquez sur chaque "
+"formulaire pour modifier ses caractéristiques ou ajoutez un nouveau "
+"formulaire en utilisant le bouton ci-dessus. Les formulaires peuvent être "
+"placés sur les pages via le shortcode donné ou via un bloc d'éditeur. Les "
+"formulaires peuvent être réutilisés sur plusieurs pages et vous pouvez "
+"également demander sur quelles pages chaque formulaire apparaît."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:132
+msgid "Order Form Name"
+msgstr "Nom du formulaire de commande"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:133
+msgid "Shortcode"
+msgstr "Petit code"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:134
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:177
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:196
+msgid "Locations"
+msgstr "Emplacements"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:135
+msgid "Status"
+msgstr "Statut"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:136
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:393
+msgid "Action"
+msgstr "Action French"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:137
+msgid "Locations of the order forms."
+msgstr "Emplacements des bons de commande."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:138
+msgid "Edit"
+msgstr "Éditer"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:139
+msgid "Delete"
+msgstr "Effacer"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:140
+msgid "Do you want to delete this form?"
+msgstr "Voulez-vous supprimer ce formulaire ?"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:141
+msgid "Do you want to delete these forms?"
+msgstr "Voulez-vous supprimer ces formulaires ?"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:142
+msgid "Draft"
+msgstr "Brouillon"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:143
+msgid "Published"
+msgstr "Publié"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:144
+msgid "Copy"
+msgstr "Copie"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:145
+msgid "Copied"
+msgstr "Copié"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:146
+msgid "Deleted Successfully!"
+msgstr "Supprimé avec succès!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:147
+msgid "Unable to delete!"
+msgstr "Impossible de supprimer!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:148
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:394
+msgid "OK"
+msgstr "D'accord"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:149
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:395
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:150
+msgid "of"
+msgstr "de"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:151
+msgid "items"
+msgstr "éléments"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:152
+msgid "page"
+msgstr "la page"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:153
+msgid "pages"
+msgstr "la pages"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:157
+msgid "ORDER FORM HEADER"
+msgstr "EN-TÊTE DU BON DE COMMANDE"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:158
+msgid "ORDER FORM TABLE"
+msgstr "TABLEAU BON DE COMMANDE"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:159
+msgid "ORDER FORM FOOTER"
+msgstr "PIED DE PIED DU BON DE COMMANDE"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:162
+msgid "Drop Tables Column Here"
+msgstr "Déposez la colonne Tables ici"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:168
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:320
+msgid "Settings for"
+msgstr "Paramètres pour"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:169
+msgid "Header"
+msgstr "Entête"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:170
+msgid "Table"
+msgstr "Table French"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:171
+msgid "Footer"
+msgstr "Bas de page"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:175
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:182
+msgid "Order Form Elements"
+msgstr "Éléments du formulaire de commande"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:183
+msgid "Click and drag the elements you want on your order form into position."
+msgstr ""
+"Cliquez et faites glisser les éléments que vous voulez sur votre bon de "
+"commande en position."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:184
+msgid "HEADER/FOOTER ELEMENTS"
+msgstr "ÉLÉMENTS EN-TÊTE/PIED DE PIED"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:185
+msgid "TABLE COLUMNS"
+msgstr "COLONNES DE TABLEAU"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:189
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:462
+msgid "Additional Note"
+msgstr "Note supplémentaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:190
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:402
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:471
+msgid "Click For More Info"
+msgstr "Cliquez pour plus d'informations"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:195
+msgid "No Data"
+msgstr "Pas de données"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:197
+msgid "This form can be found on the following locations."
+msgstr "Ce formulaire se trouve aux endroits suivants."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:202
+msgid "Data cannot be fetched!"
+msgstr "Les données ne peuvent pas être récupérées !"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:203
+msgid "Sorry, the page you visited does not exist."
+msgstr "Désolé, la page que vous avez visitée n'existe pas."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:204
+msgid "Go Back"
+msgstr "Retourner"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:205
+msgid "Order Form Added!"
+msgstr "Bon de commande ajouté!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:206
+msgid "Error Adding Order Form!"
+msgstr "Erreur lors de l'ajout du bon de commande!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:207
+msgid "Order Form Saved as Draft!"
+msgstr "Bon de commande enregistré comme brouillon!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:208
+msgid "Order Form Saved!"
+msgstr "Bon de commande enregistré!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:209
+msgid "Error Updating Order Form!"
+msgstr "Erreur lors de la mise à jour du bon de commande!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:210
+#: includes/v2/class-order-form-cpt.php:118
+msgid "Add Order Form"
+msgstr "Ajouter un formulaire de commande"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:211
+#: includes/v2/class-order-form-cpt.php:120
+msgid "Edit Order Form"
+msgstr "Modifier le formulaire de commande"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:212
+msgid "Save Draft"
+msgstr "Enregistrer le brouillon"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:213
+msgid "Publish"
+msgstr "Publier"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:214
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:215
+msgid "Delete Form"
+msgstr "Supprimer le formulaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:216
+msgid "Form Title"
+msgstr "Titre du formulaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:217
+msgid "is required!"
+msgstr "est requis!"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:221
+msgid "Settings for this"
+msgstr "Paramètres pour cela"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:222
+msgid "column"
+msgstr "colonne"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:223
+msgid "item"
+msgstr "objet"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:224
+msgid "Re-order columns in this table."
+msgstr "Réorganisez les colonnes de ce tableau."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:225
+msgid "Re-order item in this row."
+msgstr "Recommandez l'article dans cette rangée."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:226
+msgid "Are you sure to delete this"
+msgstr "Êtes-vous sûr de supprimer ce"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:232
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:321
+msgid "Settings for this row"
+msgstr "Paramètres pour cette ligne"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:233
+msgid "Re-order between rows."
+msgstr "Réorganisez entre les lignes."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:234
+msgid "Are you sure to delete this row?"
+msgstr "Êtes-vous sûr de supprimer cette ligne ?"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:240
+msgid "1 Column"
+msgstr "1 colonne"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:241
+msgid "2 Column"
+msgstr "2 colonnes"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:242
+msgid "3 Column"
+msgstr "3 colonnes"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:243
+msgid "4 Column"
+msgstr "4 colonnes"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:244
+msgid "Add New Section"
+msgstr "Ajouter une nouvelle section"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:245
+msgid "Select Your Structure"
+msgstr "Sélectionnez votre structure"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:249
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:594
+msgid "Product(s)"
+msgstr "Des produit(s)"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:254
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:578
+#: templates/wwof-product-listing-alternate.php:30
+#: templates/wwof-product-listing-alternate.php:160
+msgid "Add Selected Products To Cart"
+msgstr "Ajouter au panier les produits sélectionnés"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:257
+msgid "Subtotal:"
+msgstr "Sous-total:"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:258
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:349
+msgid "Empty Cart"
+msgstr "Panier vide"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:261
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:591
+msgid "Select Category"
+msgstr "Choisir une catégorie"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:264
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:268
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:329
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:597
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:601
+msgid "Search Products"
+msgstr "Recherche de produits"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:265
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:334
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:598
+msgid "Clear Filters"
+msgstr "Effacer les Filtres"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:274
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:554
+msgid "Add To Cart Button"
+msgstr "Bouton Ajouter au panier"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:278
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:608
+#: templates/wwof-product-listing-lazyload.php:22
+#: templates/wwof-product-listing.php:21
+msgid "In Stock"
+msgstr "En stock"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:280
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:623
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:651
+msgid "Available on backorder"
+msgstr "Disponible en réassort"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:281
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:652
+msgid "in stock"
+msgstr "en stock"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:284
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:552
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:609
+#: templates/wwof-product-listing-alternate-lazyload.php:18
+#: templates/wwof-product-listing-alternate.php:21
+#: templates/wwof-product-listing-lazyload.php:21
+#: templates/wwof-product-listing.php:20
+msgid "Price"
+msgstr "Prix"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:287
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:605
+msgid "Image"
+msgstr "Image"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:290
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:383
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:558
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:615
+msgid "Product Meta"
+msgstr "Méta produit"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:293
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:549
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:606
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:299
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:610
+#: templates/wwof-product-listing-alternate-lazyload.php:20
+#: templates/wwof-product-listing-alternate.php:23
+#: templates/wwof-product-listing-lazyload.php:23
+#: templates/wwof-product-listing.php:22
+msgid "Quantity"
+msgstr "Quantité"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:303
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:613
+msgid "Description"
+msgstr "La description"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:306
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:323
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:612
+msgid "Options"
+msgstr "Optionsbêta"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:308
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:632
+msgid "Select Variation"
+msgstr "Sélectionnez une variante"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:309
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:314
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:633
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:638
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:662
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:310
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:634
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:313
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:637
+msgid "Choose an option"
+msgstr "Choisis une option"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:322
+msgid "Styles"
+msgstr "Modes"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:327
+msgid "No Options"
+msgstr "Aucune option"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:330
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:331
+msgid "Search Button Text"
+msgstr "Texte du bouton de recherche"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:335
+msgid "Clear Button Text"
+msgstr "Effacer le texte du bouton"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:338
+msgid "Column Heading Text"
+msgstr "Texte d'en-tête de colonne"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:341
+msgid "Decimal Quantity"
+msgstr "Quantité décimale"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:342
+msgid "Allow decimal values in the quantity input boxes."
+msgstr "Autoriser les valeurs décimales dans les zones de saisie de quantité."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:345
+msgid "Default Category"
+msgstr "Catégorie par défaut"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:348
+msgid "Empty Cart Text"
+msgstr "Texte du panier vide"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:352
+msgid "Excluded Category"
+msgstr "Catégorie exclue"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:355
+msgid "Click Action"
+msgstr "Cliquez sur Action"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:356
+msgid "Show Product Details Popup"
+msgstr "Afficher la fenêtre contextuelle des détails du produit"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:357
+msgid "Navigate To Single Product Page"
+msgstr "Naviguer vers une page de produit unique"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:358
+msgid "Show Image Popup"
+msgstr "Afficher l'image contextuelle"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:361
+msgid "Image Size"
+msgstr "Taille de l'image"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:362
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:363
+msgid "Height"
+msgstr "Hauteur"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:366
+msgid "Included Category"
+msgstr "Catégorie incluse"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:369
+msgid "Max Characters"
+msgstr "Nombre maximum de caractères"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:370
+msgid "Leave blank for unlimited"
+msgstr "Laisser vide pour illimité"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:373
+msgid "Out Of Stock Text"
+msgstr "Texte en rupture de stock"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:374
+msgid "Out Of Stock"
+msgstr "Rupture de stock"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:377
+msgid "Placeholder"
+msgstr "Espace réservé"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:380
+msgid "Pre-Text"
+msgstr "Prétexte"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:384
+msgid "Note: Meta key with prefix of underscore (_) will not work."
+msgstr ""
+"Remarque : La clé méta avec le préfixe de soulignement (_) ne fonctionnera "
+"pas."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:385
+msgid "*Click \"Update\" to save your changes."
+msgstr "*Cliquez sur \"Mettre à jour\" pour enregistrer vos modifications."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:386
+msgid "Add Row"
+msgstr "Ajouter une rangée"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:387
+msgid "The name"
+msgstr "Le nom"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:388
+msgid "Sure to delete?"
+msgstr "Voulez-vous vraiment supprimer?"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:389
+msgid "is required"
+msgstr "est requis"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:391
+msgid "Meta Key"
+msgstr "Clé méta"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:392
+msgid "meta_key"
+msgstr "meta_key"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:401
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:619
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:629
+msgid "Quantity Restriction"
+msgstr "Restriction de quantité"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:403
+msgid "Quantity Restriction (WooCommerce Wholesale Prices Premium feature)"
+msgstr ""
+"Restriction de quantité (fonctionnalité Premium des prix de gros WooCommerce)"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:404
+msgid ""
+"<p>\n"
+"                                                        When <b>Wholesale "
+"Minimum Order Quantity</b> is set, with or\n"
+"                                                        without setting "
+"<b>Wholesale Order Quantity Step</b>, only\n"
+"                                                        allow adding to cart "
+"when the quantity complies with the\n"
+"                                                        minimum quantity "
+"(and with the step increments if set).\n"
+"                                                    </p>\n"
+"                                                    <p>\n"
+"                                                        <b>Example:</b> <br /"
+">\n"
+"                                                        Min = 5, valid qty "
+"are 5 and up. Invalid qty are below 5.\n"
+"                                                        <br />\n"
+"                                                        Min = 5, Step = 3, "
+"valid qty are 5, 8, 11 and so on. Invalid\n"
+"                                                        qty are 6, 7, 9, 10 "
+"and so on.\n"
+"                                                    </p>"
+msgstr ""
+"<p>\n"
+"                                                        Lorsque la "
+"<b>Quantité minimale de commande en gros</b> est définie, avec ou\n"
+"                                                        sans définir "
+"l'<b>Étape de la quantité de commande en gros</b>, uniquement\n"
+"                                                        permettre l'ajout au "
+"panier lorsque la quantité est conforme à la\n"
+"                                                        quantité minimale "
+"(et avec les incréments de pas si défini).\n"
+"                                                    </p>\n"
+"                                                    <p>\n"
+"                                                        <b>Exemple :</b> "
+"<br />\n"
+"                                                        Min = 5, la quantité "
+"valide est de 5 et plus. La quantité non valide est inférieure à 5.\n"
+"                                                        <br />\n"
+"                                                        Min = 5, Step = 3, "
+"les quantités valides sont 5, 8, 11 et ainsi de suite. Invalide\n"
+"                                                        qté sont 6, 7, 9, 10 "
+"et ainsi de suite.\n"
+"                                                    </p>"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:419
+msgid "Show Clear Button"
+msgstr "Afficher le bouton Effacer"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:420
+msgid "Show a button to clear filters next to the search button"
+msgstr ""
+"Afficher un bouton pour effacer les filtres à côté du bouton de recherche"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:423
+msgid "Show Form Footer"
+msgstr "Afficher le pied de page du formulaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:424
+msgid "Show the order form footer."
+msgstr "Afficher le pied de page du bon de commande."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:427
+msgid "Show Form Header"
+msgstr "Afficher l'en-tête du formulaire"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:430
+msgid "Show Min Requirement Notices"
+msgstr "Afficher les avis d'exigence minimale"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:431
+msgid "Show wholesale minimum requirement notices above the search form"
+msgstr ""
+"Afficher les avis d'exigences minimales en gros au-dessus du formulaire de "
+"recherche"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:434
+msgid "SKU Search"
+msgstr "Recherche d'UGS"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:435
+msgid "Allow searching by SKU"
+msgstr "Autoriser la recherche par UGS"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:438
+msgid "Smart Visibility"
+msgstr "Visibilité intelligente"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:439
+msgid "Hide column when no variable products detected"
+msgstr "Masquer la colonne lorsqu'aucun produit variable n'est détecté"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:442
+msgid "Sortable"
+msgstr "Triable"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:443
+msgid "Allow sorting the table by this column"
+msgstr "Autoriser le tri du tableau par cette colonne"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:446
+msgid "Submit On Change"
+msgstr "Soumettre en cas de modification"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:449
+msgid "Submit On Enter"
+msgstr "Soumettre à l'entrée"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:452
+msgid "Subtotal Suffix"
+msgstr "Suffixe de sous-total"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:455
+msgid "Tax Display"
+msgstr "Affichage des taxes"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:456
+msgid "WooCommerce Default"
+msgstr "WooCommerce par défaut"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:457
+msgid "Including Tax"
+msgstr "Taxes comprises"
+
+# x
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:458
+msgid "Excluding Tax"
+msgstr "Hors tax"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:461
+msgid "Variation Selector Style"
+msgstr "Style de sélecteur de variation"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:463
+msgid ""
+"<p>\n"
+"                                                        <b>Standard</b> - "
+"Limitation is only up to 100 variations.\n"
+"                                                    </p>\n"
+"                                                    <p>\n"
+"                                                        <b>Combo</b> - "
+"Recommended for product with large variations\n"
+"                                                        (100 variations and "
+"up). Lazy load 20 variations on scroll\n"
+"                                                        down.\n"
+"                                                    </p>"
+msgstr ""
+"<p>\n"
+"                                                        <b>Standard</b> - La "
+"limitation n'est que de 100 variantes.\n"
+"                                                    </p>\n"
+"                                                    <p>\n"
+"                                                        <b>Combo</b> - "
+"Recommandé pour les produits avec de grandes variations\n"
+"                                                        (100 variantes et "
+"plus). Lazy load 20 variations sur scroll\n"
+"                                                        vers le bas.\n"
+"                                                    </p>"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:472
+msgid "Combo (Less Clicks/Faster)"
+msgstr "Combo (moins de clics/plus rapide)"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:473
+msgid "Standard (One Box Per Attribute)"
+msgstr "Standard (une case par attribut)"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:476
+msgid "Wholesale Quantity Based Pricing Tables"
+msgstr "Tableaux de prix basés sur la quantité de gros"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:477
+msgid "Show Wholesale quantity based pricing tables"
+msgstr "Afficher les tableaux de prix basés sur la quantité de gros"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:481
+msgid "No Styles."
+msgstr "Aucun style."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:483
+msgid "Table Alignment"
+msgstr "Alignement des tableaux"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:484
+msgid "Element Alignment"
+msgstr "Alignement des éléments"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:485
+msgid "Cell Alignment"
+msgstr "Alignement des cellules"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:486
+msgid "Left"
+msgstr "La gauche"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:487
+msgid "Center"
+msgstr "Centre"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:488
+msgid "Right"
+msgstr "Droite"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:491
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:494
+msgid "Button Text Color"
+msgstr "Couleur du texte du bouton"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:497
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:498
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:517
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:499
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:518
+msgid "%"
+msgstr "%"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:500
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:519
+msgid "px"
+msgstr "px"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:503
+msgid "Margin"
+msgstr "Marge"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:504
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:509
+msgid "Linked"
+msgstr "Liée"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:505
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:510
+msgid "Not Linked"
+msgstr "Non lié"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:508
+msgid "Padding"
+msgstr "Rembourrage"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:513
+msgid "Table Width"
+msgstr "Largeur du tableau"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:514
+msgid "Box Width"
+msgstr "Largeur de la boîte"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:515
+msgid "Element Width"
+msgstr "Largeur de l'élément"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:516
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:540
+msgid "Search Input"
+msgstr "Entrée de recherche"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:541
+msgid "Category Filter"
+msgstr "Filtre de catégorie"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:542
+msgid "Add Selected To Cart Button"
+msgstr "Bouton Ajouter la sélection au panier"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:543
+msgid "Cart Subtotal"
+msgstr "Sous-total du panier"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:544
+msgid "Product Count"
+msgstr "Nombre de produits"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:545
+msgid "Pagination"
+msgstr "Pagination French"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:546
+msgid "Search & Clear Buttons"
+msgstr "Rechercher et effacer les boutons"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:548
+msgid "Product Image"
+msgstr "Image du produit"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:551
+msgid "In Stock Amount"
+msgstr "Montant en stock"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:553
+msgid "Quantity Input"
+msgstr "Entrée de quantité"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:555
+msgid "Variation Dropdown"
+msgstr "Liste déroulante des variantes"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:556
+msgid "Short Description"
+msgstr "Brève Description"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:557
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:614
+msgid "Add To Cart Checkbox"
+msgstr "Case à cocher Ajouter au panier"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:574
+msgid ""
+"This Order Form is in \"Draft\" status. This form will only be visible only "
+"for admin user."
+msgstr ""
+"Ce bon de commande est à l'état \"Brouillon\". Ce formulaire ne sera visible "
+"que pour l'utilisateur administrateur."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:579
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:670
+msgid "Please enter a valid value. Quantity must not be 0."
+msgstr "Veuillez entrer une valeur valide. La quantité ne doit pas être 0."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:580
+msgid "The entered quantity is lower than the allowed minimum"
+msgstr "La quantité saisie est inférieure au minimum autorisé"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:581
+msgid "Please enter a valid quantity. The two nearest valid quantity are"
+msgstr ""
+"Veuillez saisir une quantité valide. Les deux quantités valides les plus "
+"proches sont"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:582
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:673
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:686
+msgid "and"
+msgstr "et"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:583
+msgid "No variation(s) selected."
+msgstr "Aucune variation(s) sélectionnée(s)."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:584
+msgid "Succesfully Added"
+msgstr "Ajouté avec succès"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:585
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:668
+msgid "Add to Cart Failed"
+msgstr "Échec de i'ajout au panier"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:588
+msgid "Empty Cart."
+msgstr "Panier vide."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:624
+msgid "In stock"
+msgstr "En stock"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:627
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:650
+msgid "Close"
+msgstr "Proche"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:641
+msgid "Wholesale Quantity Based Pricing"
+msgstr "Tarification basée sur la quantité en gros"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:642
+msgid "Quantity Based Wholesale Pricing"
+msgstr "Prix ​​de gros basés sur la quantité"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:645
+msgid "This product is currently out of stock and unavailable."
+msgstr "Ce produit est actuellement en rupture de stock et indisponible."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:646
+msgid "Category"
+msgstr "Catégorie"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:656
+msgid "Select All Products"
+msgstr "Sélectionner tous les produits"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:660
+msgid "Sort By"
+msgstr "Trier par"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:661
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:669
+msgid "Please select a variation(s)."
+msgstr "Veuillez sélectionner une ou plusieurs variantes."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:671
+msgid ""
+"Please enter a valid value. The entered value is lower than the allowed "
+"minimum"
+msgstr ""
+"Veuillez entrer une valeur valide. La valeur saisie est inférieure au "
+"minimum autorisé"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:672
+msgid "Please enter a valid value. The two nearest valid values are"
+msgstr ""
+"Veuillez entrer une valeur valide. Les deux valeurs valides les plus proches "
+"sont"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:674
+msgid "Succesfully Added:"
+msgstr "Ajouté avec succès :"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:676
+msgid "Quantity must not be empty."
+msgstr "La quantité ne doit pas être vide."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:677
+msgid "Unable to add to cart."
+msgstr "Impossible d'ajouter au panier."
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:678
+msgid "Unavailable"
+msgstr "Indisponible"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:682
+msgid "Quantity of"
+msgstr "Quantité de"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:683
+msgid "is invalid. Please provide a quantity that is minimum of"
+msgstr "est invalide. Veuillez fournir une quantité minimale de"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:684
+msgid "and increments of"
+msgstr "et des incréments de"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:685
+msgid "The two nearest valid values are"
+msgstr "Les deux valeurs valides les plus proches sont"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:687
+msgid "is not within range of suggested quantity of minimum of"
+msgstr "n'est pas dans la plage de quantité suggérée de minimum de"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:691
+msgid "Click to sort descending"
+msgstr "Cliquez pour trier par ordre décroissant"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:692
+msgid "Click to sort ascending"
+msgstr "Cliquez pour trier par ordre croissant"
+
+#: includes/v2/api/controllers/class-rest-api-i18n-controller.php:693
+msgid "Click to cancel sorting"
+msgstr "Cliquez pour annuler le tri"
+
+#: includes/v2/api/controllers/class-rest-api-order-form-api-keys-controller.php:105
+msgid "Invalid API keys."
+msgstr "Clés API non valides."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-api-keys-controller.php:131
+msgid "API keys updated."
+msgstr "Clés API mises à jour."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-api-keys-controller.php:138
+msgid "Unable to update API Keys."
+msgstr "Impossible de mettre à jour les clés API."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-api-keys-controller.php:173
+msgid "Successfully revoked API Key."
+msgstr "Clé API révoquée avec succès."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-api-keys-controller.php:184
+msgid "You do not have permission to revoke this API Key"
+msgstr "Vous n'êtes pas autorisé à révoquer cette clé API"
+
+#: includes/v2/api/controllers/class-rest-api-order-form-api-keys-controller.php:215
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:227
+msgid "Invalid Request."
+msgstr "Requête invalide."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:124
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:74
+msgid "Unique identifier for the object."
+msgstr "Identifiant unique de l'objet."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:146
+msgid "Whether to bypass trash and force deletion."
+msgstr "S'il faut contourner la corbeille et forcer la suppression."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:385
+msgid "The page number requested is larger than the number of pages available."
+msgstr ""
+"Le numéro de page demandé est supérieur au nombre de pages disponibles."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:432
+msgid "Cannot create existing post."
+msgstr "Impossible de créer une publication existante."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:621
+msgid "Invalid author ID."
+msgstr "ID d'auteur non valide."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:749
+msgid "Unique identifier for the order form cpt object."
+msgstr "Identifiant unique de l’objet cpt du formulaire de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:755
+msgid "The title for the order form cpt object."
+msgstr "Titre de l'objet cpt du bon de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:760
+msgid "The description for the order form cpt object"
+msgstr "Description de l’objet cpt du formulaire de commande"
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:765
+msgid "Shortcode locations."
+msgstr "Positions du code court."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:770
+msgid "A named status for the order form cpt object."
+msgstr "A état nommé pour l’objet cpt du formulaire de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:776
+msgid "Type of Post for the order form cpt object."
+msgstr "Type de poste pour l'objet cpt du bon de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:782
+msgid "Order Form Elements Side Panel."
+msgstr "Panneau latéral des éléments du formulaire de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:787
+msgid "Order Form Editor Elements."
+msgstr "Éléments de l’éditeur du formulaire de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:792
+msgid "Order Form Editor Styles."
+msgstr "Styles de l’éditeur du formulaire de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:797
+msgid "Order Form Settings."
+msgstr "Paramètres du formulaire de commande."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:871
+msgid "Limit response to posts published after a given ISO8601 compliant date."
+msgstr ""
+"Limitez la réponse aux messages publiés après une date de conformité ISO8601."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:878
+msgid "Limit result set to posts assigned to specific authors."
+msgstr ""
+"Limitez l'ensemble de résultats aux publications attribuées à des auteurs "
+"spécifiques."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:886
+msgid "Ensure result set excludes posts assigned to specific authors."
+msgstr ""
+"Assurez-vous que l'ensemble de résultats exclut les publications attribuées "
+"à des auteurs spécifiques."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:896
+msgid ""
+"Limit response to posts published before a given ISO8601 compliant date."
+msgstr ""
+"Limitez la réponse aux messages publiés avant une date de conformité ISO8601."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:902
+msgid "Ensure result set excludes specific IDs."
+msgstr "Assurez-vous que l'ensemble de résultats exclut des ID spécifiques."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:911
+msgid "Limit result set to specific IDs."
+msgstr "Limitez l'ensemble de résultats à des identifiants spécifiques."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:921
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr ""
+"Limitez le jeu de résultats aux publications avec une valeur menu_order "
+"spécifique."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:927
+msgid "Offset the result set by a specific number of items."
+msgstr "Décaler le résultat défini par un nombre spécifique d'éléments."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:932
+msgid "Order sort attribute ascending or descending."
+msgstr "Attribut de tri par ordre croissant ou décroissant."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:939
+msgid "Sort collection by object attribute."
+msgstr "Trier la collection par attribut d'objet."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:963
+msgid "Limit result set to posts with one or more specific slugs."
+msgstr ""
+"Limitez le jeu de résultats aux publications avec un ou plusieurs slugs "
+"spécifiques."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:973
+msgid "Limit result set to posts assigned one or more statuses."
+msgstr ""
+"Limitez l'ensemble de résultats aux publications auxquelles un ou plusieurs "
+"statuts sont attribués."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:986
+msgid "Limit result set based on relationship between multiple taxonomies."
+msgstr ""
+"Limitez l'ensemble de résultats en fonction de la relation entre plusieurs "
+"taxonomies."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:997
+#, php-format
+msgid ""
+"Limit result set to all items that have the specified term assigned in the "
+"%s taxonomy."
+msgstr ""
+"Limitez l'ensemble de résultats à tous les éléments auxquels le terme "
+"spécifié est affecté dans la taxonomie %s."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1007
+#, php-format
+msgid ""
+"Limit result set to all items except those that have the specified term "
+"assigned in the %s taxonomy."
+msgstr ""
+"Limitez l'ensemble de résultats à tous les éléments, à l'exception de ceux "
+"auxquels le terme spécifié est affecté dans la taxonomie %s."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1018
+msgid "Limit result set to items that are sticky."
+msgstr "Limitez l'ensemble de résultats aux éléments persistants."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1077
+msgid "Status is forbidden."
+msgstr "Le statut est interdit."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1165
+#, php-format
+msgid "The post does not support trashing. Set '%s' to delete."
+msgstr ""
+"La publication ne prend pas en charge la corbeille. Définissez '%s' à "
+"supprimer."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1174
+msgid "The post has already been deleted."
+msgstr "Le message a déjà été supprimé."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1189
+msgid "The post cannot be deleted."
+msgstr "Le message ne peut pas être supprimé."
+
+#: includes/v2/api/controllers/class-rest-api-order-form-controller.php:1222
+msgid "Invalid post ID."
+msgstr "ID de poste non valide."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:113
+msgid "Resource does not exist."
+msgstr "La ressource n’existe pas."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:117
+msgid "Sorry, you cannot list resources."
+msgstr "Désolé, vous ne pouvez lister les ressources."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:155
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:161
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:170
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:174
+msgid "WooCommerce default"
+msgstr "Défaut de WooCommerce"
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:156
+msgid "Menu Order"
+msgstr "Ordre des menus"
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:165
+msgid "Product Sorting By"
+msgstr "Tri des produits par"
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:177
+msgid "Lazy Loading"
+msgstr "Chargement paresseux"
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:179
+msgid "More results are loaded into the page based on the user scrolling."
+msgstr ""
+"Chargement paresseux - plus de produits sont chargés dans la page à mesure "
+"que l’utilisateur la fait défiler."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:180
+msgid ""
+"<b>Note:</b> If pagination element is added in the editor, this will be "
+"hidden in the frontend."
+msgstr ""
+"<b>Remarque :</b> Si un élément de pagination est ajouté dans l'éditeur, il "
+"sera masqué dans le frontend."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:190
+msgid "Zero Inventory"
+msgstr "Zéro inventaire"
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:192
+msgid "Show products that have zero inventory."
+msgstr "Afficher les produits qui n'ont aucun stock."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:210
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:229
+msgid "Invalid ID."
+msgstr "ID invalide."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:238
+msgid "Settings updated successfully."
+msgstr "Paramètres enregistrés avec succès."
+
+#: includes/v2/api/controllers/class-rest-api-settings-controller.php:246
+msgid "Update Fail."
+msgstr "Échec de mise à jour."
+
+#: includes/v2/class-order-form-cpt.php:80
+msgid "Wholesale Order Forms"
+msgstr "Formulaires de commande en gros"
+
+#: includes/v2/class-order-form-cpt.php:80
+msgid "Wholesale Order Form"
+msgstr "Formulaire de commande en gros"
+
+#: includes/v2/class-order-form-cpt.php:113
+msgid "Order Form"
+msgstr "Formulaire de commande"
+
+#: includes/v2/class-order-form-cpt.php:115
+msgid "Parent Order Form"
+msgstr "Formulaire de commande parent"
+
+#: includes/v2/class-order-form-cpt.php:117
+msgid "View Order Form"
+msgstr "Voir le formulaire de commande"
+
+#: includes/v2/class-order-form-cpt.php:119
+msgid "New Order Form"
+msgstr "Nouveau formulaire de commande"
+
+#: includes/v2/class-order-form-cpt.php:121
+msgid "Update Order Form"
+msgstr "Mettre à jour le formulaire de commande"
+
+#: includes/v2/class-order-form-cpt.php:122
+msgid "Search Order Forms"
+msgstr "Rechercher des formulaires de commande"
+
+#: includes/v2/class-order-form-cpt.php:123
+msgid "No Order Form found"
+msgstr "Aucun formulaire de commande trouvé"
+
+#: includes/v2/class-order-form-cpt.php:124
+msgid "No Order Forms found in Trash"
+msgstr "Aucun formulaire de commande trouvé dans la corbeille"
+
+#: includes/v2/class-order-form-cpt.php:129
+msgid "Order Forms CPT"
+msgstr "CPT du formulaire de commande"
+
+#: includes/v2/class-order-form-requirements.php:126
+#: includes/v2/class-order-form-requirements.php:133
+msgid "Update Now"
+msgstr "Mettre à jour maintenant"
+
+#: includes/v2/class-order-form-requirements.php:127
+#, php-format
+msgid ""
+"<br/><p><b>WooCommerce Wholesale Prices</b> needs to be on at least version "
+"<b>%1$s</b> to work properly with WooCommerce Wholesale Order Form.</"
+"p><p><b>Click here to update.</b></p>%2$s"
+msgstr ""
+"<br/><p><b>WooCommerce Wholesale Prices</b> doit être au moins en version <b>"
+"%1$s</b> pour fonctionner correctement avec WooCommerce Wholesale Order Form."
+"</p><p><b>Cliquer ici pour mettre à jour.</b></p>%2$s"
+
+#: includes/v2/class-order-form-requirements.php:134
+#, php-format
+msgid ""
+"<br/><br/><p><b>WooCommerce Wholesale Prices Premium</b> needs to be on at "
+"least version <b>%1$s</b> to work properly with WooCommerce Wholesale Order "
+"Form.</p><p><b>Click here to update.</b></p>%2$s"
+msgstr ""
+"<br/><br/><p><b>WooCommerce Wholesale Prices Premium</b> doit être au moins "
+"en version <b>%1$s</b> pour fonctionner correctement avec WooCommerce "
+"Wholesale Order Form.</p><p><b>Cliquer ici pour mettre à jour.</b></p>%2$s"
+
+#: includes/v2/class-order-form-requirements.php:143
+#, php-format
+msgid ""
+"%1$s &nbsp; <b>NEWER VERSION OF WOOCOMMERCE WHOLESALE PRICES & PREMIUM "
+"REQUIRED</b>"
+msgstr ""
+"%1$s &nbsp; <b>NEWER VERSION OF WOOCOMMERCE WHOLESALE PRICES & PREMIUM "
+"REQUIRED</b>"
+
+#: includes/v2/class-order-form-requirements.php:155
+#, php-format
+msgid ""
+"You have met the minimum WooCommerce Wholesale Prices Premium version of %1$s"
+msgstr ""
+"Vous satisfaites à la version minimale %1$s de WooCommerce Wholesale Prices "
+"Premium"
+
+# Masqué ou masquage
+#: includes/v2/class-order-form-requirements.php:179
+msgid "Hiding WWPP minimum requirement message."
+msgstr "Message WWPP de minimum requis masqué."
+
+#: includes/v2/class-order-form-scripts.php:122
+msgid "Successfully created API key."
+msgstr "Clé API créée avec succès."
+
+#: includes/v2/class-order-form-scripts.php:124
+msgid "Success!"
+msgstr "Succès!"
+
+#: includes/v2/class-order-form-scripts.php:125
+msgid "Fail!"
+msgstr "Échouer!"
+
+#: templates/wwof-product-details.php:112
+msgid "Out of stock"
+msgstr "Rupture de stock"
+
+#: templates/wwof-product-listing-alternate-lazyload.php:16
+#: templates/wwof-product-listing-alternate.php:19
+#: templates/wwof-product-listing-lazyload.php:19
+#: templates/wwof-product-listing.php:18
+msgid "Product"
+msgstr "Produit"
+
+#: templates/wwof-product-listing-alternate.php:34
+#: templates/wwof-product-listing-alternate.php:164
+msgid "View Cart &rarr;"
+msgstr "Voir le panier &rarr;"
+
+#: templates/wwof-product-listing-alternate.php:38
+#: templates/wwof-product-listing-alternate.php:168
+msgid "Product/s Added"
+msgstr "Produit(s) ajouté(s)"
+
+#: templates/wwof-product-listing-alternate.php:136
+#: templates/wwof-product-listing.php:117
+msgid "No Products Found"
+msgstr "Aucun produit trouvé"
+
+#: templates/wwof-product-listing-alternate.php:177
+#: templates/wwof-product-listing.php:142
+#, php-format
+msgid "%1$s Product/s Found"
+msgstr "%1$s Produit(s) trouvé(s)"
+
+#: templates/wwof-product-listing-filter.php:26
+msgid "-- No Category Filter --"
+msgstr "-- Aucun filtre de catégorie --"
+
+#: templates/wwof-product-listing-filter.php:31
+msgid "Search"
+msgstr "Rechercher"
+
+#: templates/wwof-product-listing-filter.php:32
+msgid "Show All Products"
+msgstr "Montrer tous les produits"
+
+#: views/custom-fields/view-wwof-force-fetch-update-data-button-custom-field.php:8
+#: views/custom-fields/view-wwof-force-fetch-update-data-button-custom-field.php:11
+msgid "Refetch Plugin Update Data"
+msgstr "Récupérer les données de mise à jour du plugin"
+
+#: views/custom-fields/view-wwof-force-fetch-update-data-button-custom-field.php:11
+msgid "Are you sure you want to refetch plugin update data?"
+msgstr ""
+"Êtes-vous sûr de vouloir récupérer les données de mise à jour de "
+"l’extension ?"
+
+#: views/custom-fields/view-wwof-force-fetch-update-data-button-custom-field.php:12
+msgid ""
+"This will refetch the plugin update data. Useful for debugging failed plugin "
+"update operations."
+msgstr ""
+"Ceci récupèrera les données de mise à jour du plugin. Utile pour le débogage "
+"des opérations de mise à jour du plugin ayant échoué."
+
+#: views/shortcodes/wwof-shortcode-product-listing.php:10
+msgid "Search by name or SKU ..."
+msgstr "Rechercher par nom ou UGS…"
+
+#: views/shortcodes/wwof-shortcode-product-listing.php:12
+msgid "Search by name"
+msgstr "Rechercher par nom"
+
+#: views/wwof-notice/view-wwof-notices.php:36
+msgid ""
+"Thank you for choosing Wholesale Suite – the most complete wholesale "
+"solution for building wholesale sales into your existing WooCommerce driven "
+"store."
+msgstr ""
+"Merci d'avoir choisi Wholesale Suite - la solution de vente en gros la plus "
+"complète pour créer des ventes en gros dans votre magasin WooCommerce "
+"existant."
+
+#: views/wwof-notice/view-wwof-notices.php:37
+msgid ""
+"To help you get up and running as quickly and as smoothly as possible, we've "
+"published a number of getting started guides for our tools. You'll find "
+"links to these at any time inside the Help section in the settings for each "
+"plugin, but here are the links below so you can read them now."
+msgstr ""
+"Pour vous aider à démarrer le plus rapidement et le plus facilement "
+"possible, nous avons publié un certain nombre de guides de démarrage pour "
+"nos outils. Vous trouverez des liens vers ceux-ci à tout moment dans la "
+"section Aide dans les paramètres de chaque plugin, mais voici les liens ci-"
+"dessous afin que vous puissiez les lire maintenant."
+
+#: views/wwof-notice/view-wwof-notices.php:42
+msgid "Wholesale Prices Premium Guide"
+msgstr "Guide Premium des prix de gros"
+
+#: views/wwof-notice/view-wwof-notices.php:47
+msgid "Wholesale Prices Guide"
+msgstr "Guide Wholesale Prices"
+
+#: views/wwof-notice/view-wwof-notices.php:53
+msgid "Wholesale Order Form Guide"
+msgstr "Guide Wholesale Order Form"
+
+#: views/wwof-notice/view-wwof-notices.php:58
+#: views/wwof-notice/view-wwof-notices.php:71
+msgid "Dismiss this notice."
+msgstr "Rejeter cette notification."
+
+#: views/wwof-notice/view-wwof-notices.php:65
+msgid ""
+"Thank you for choosing Order Form to provide an efficient, optimized "
+"ordering experience for you wholeale customers. We know they're going to "
+"love it!"
+msgstr ""
+"Merci d’avoir choisi Order Form pour offrir à vos clients grossistes une "
+"expérience de commande efficace et optimisée. Nous savons qu’ils vont "
+"l’adorer!"
+
+#: views/wwof-notice/view-wwof-notices.php:66
+msgid ""
+"The plugin has already created an order form page which you'll find under "
+"the Pages menu. We highly recommend reading the getting started guide to "
+"help you get up to speed on customizing order form experience."
+msgstr ""
+"Cette extension a déjà créé une page de formulaire de commande que vous "
+"trouverez dans le menu Pages. Nous vous recommandons vivement de lire notre "
+"guide de démarrage pour vous aider à rapidement personnaliser votre "
+"formulaire."
+
+#: views/wwof-notice/view-wwof-notices.php:68
+msgid "Read the Getting Started guide"
+msgstr "Lisez le guide de démarrage"
+
+#: views/wws-license-settings/view-wwof-general-wws-settings-page.php:12
+msgid "WWS License Settings"
+msgstr "Paramètres de licence WWS"
+
+#: views/wws-license-settings/view-wwof-wws-settings-page.php:16
+msgid "License Expired"
+msgstr "Licence expirée"
+
+#: views/wws-license-settings/view-wwof-wws-settings-page.php:19
+#, php-format
+msgid ""
+"The entered license was purchased over 12 months ago and expired on <b id="
+"\"wwof-license-expiration-date\">%1$s</b>.<br/> To continue receiving "
+"support & updates please <b><a href=\"%2$s\" target=\"_blank\">click here to "
+"renew your license</a>.</b>"
+msgstr ""
+"La licence entrée a été acquise il y a plus de 12 mois et a expiré le <b id="
+"\"wwof-license-expiration-date\">%1$s</b>.<br/> Pour continuer de bénéficier "
+"du support et des mises à jour veuillez <b><a href=\"%2$s\" target=\"_blank"
+"\">cliquer ici pour renouveler votre licence</a>.</b>"
+
+#: views/wws-license-settings/view-wwof-wws-settings-page.php:25
+msgid "License Email"
+msgstr "Email de licence"
+
+#: views/wws-license-settings/view-wwof-wws-settings-page.php:34
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: views/wws-license-settings/view-wwof-wws-settings-page.php:44
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: woocommerce-wholesale-order-form.bootstrap.php:74
+msgid "Click here to install from WordPress.org repo &rarr;"
+msgstr "Cliquer ici pour l’installer depuis le dépôt WordPress.org &rarr;"
+
+#: woocommerce-wholesale-order-form.bootstrap.php:77
+msgid "Activate this plugin"
+msgstr "Activer cette extension"
+
+#: woocommerce-wholesale-order-form.bootstrap.php:77
+msgid "Click here to activate &rarr;"
+msgstr "Cliquer ici pour activer &rarr;"
+
+#: woocommerce-wholesale-order-form.bootstrap.php:80
+#, php-format
+msgid ""
+"<br/>Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> "
+"plugin installed and activated.<br/>"
+msgstr ""
+"<br/>Veuillez vous assurer d’avoir l’extension <a href=\"%1$s\" target="
+"\"_blank\">%2$s</a> installée et activée.<br/>"
+
+#: woocommerce-wholesale-order-form.bootstrap.php:86
+msgid "<b>WooCommerce Wholesale Order Form</b> plugin missing dependency.<br/>"
+msgstr ""
+"Une dépendance de l’extension <b>WooCommerce Wholesale Order Form</b> est "
+"manquante.<br/>"
+
+msgid ""
+"WooCommerce Extension to Provide Wholesale Product Listing Functionality"
+msgstr ""
+"Extension WooCommerce pour fournir une fonctionnalité de liste de produits "
+"en gros"

@@ -1,0 +1,112 @@
+
+
+.wpgis-video-thumb {
+    position: relative;
+   
+    display: block;
+    
+}
+.wpgis-video-thumb:after {
+    position: absolute;
+    content: "\f236";
+    font-family: "dashicons";
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    display: block;
+    color: #00b9eb;
+    
+}
+.btn-next {
+    right: 0px;
+}
+.slick-vertical .btn-prev,.slick-vertical .btn-next {
+    position: static;
+}
+.btn-prev, .btn-next {
+    
+    position: absolute;
+    top: 45%;
+    z-index: 999;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 3px;
+    padding: 0;
+    
+    cursor: pointer;
+    
+    border: none;
+    outline: none;
+}
+
+.wpgis-pgs .btn-prev,.wpgis-pgs  .btn-next {
+ position: absolute;
+    top: 45%;
+    z-index: 999;
+    width: 40px;
+    height: 35px;
+    line-height: 37px;
+    border-radius: 0px;
+    padding: 0;
+   
+    font-size: 25px;
+    border: none;
+    text-align: center;
+}
+
+.slick-vertical{
+    width: 20%;
+}
+.slick-vertical .btn-prev, .slick-vertical .btn-next {
+    display: none;
+        left: 50%;
+    transform: rotate(90deg);
+    margin-left: -15px;
+ 
+}
+.wpgis-pgs{
+    overflow: hidden;
+     margin-bottom: 15px;
+    }
+.slider-nav{
+    overflow: hidden;
+    }
+.wpgis-pgs:hover .btn-prev,.wpgis-pgs:hover .btn-next {
+    opacity: 1;
+     margin: 0px;
+}
+ .slider-nav:hover .btn-prev,.slider-nav:hover .btn-next {
+    opacity: 1;
+   
+}
+.wpgis-pgs .btn-prev,
+.slider-nav .btn-prev
+{
+    margin-left: -20px;
+    }
+.wpgis-pgs .btn-next,
+.slider-nav .btn-next {
+    margin-right: -20px;
+}
+.wpgis-pgs .btn-prev,.wpgis-pgs .btn-next,
+ .slider-nav .btn-prev,.slider-nav .btn-next {
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+   
+}
+
+.slick-vertical .btn-prev {
+    position: absolute;
+    top: 0;
+    margin-left: -13px;
+}
+ .slick-vertical .btn-next {
+   position: absolute;
+    top: auto;
+    bottom: 0;
+    margin-right: 0px;
+}
+.slick-disabled {
+    cursor: not-allowed;
+}

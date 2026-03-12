@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[Soccer Balls ]]></item>
+		<sku><![CDATA[SB]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Recreation]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Soccer Ball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Soccer Balls ]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Soccer Ball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Basket Balls ]]></item>
+		<sku><![CDATA[BB]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Recreation]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Basketball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Basket Balls ]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Basketball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Volleyball]]></item>
+		<sku><![CDATA[VB]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Recreation]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Volleyball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Volleyball]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$5 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Volleyball.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Water Bottle ]]></item>
+		<sku><![CDATA[WB]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Hygiene]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Water Bottle ]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[20 oz ]]></size>
+		<price><![CDATA[$2 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Laundry Bag ]]></item>
+		<sku><![CDATA[LB]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Laundry Bag.png,Laundry Bag 2.png,Laundry Bag 3.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Laundry Bag ]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[Universal ]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[Laundry Bag.png,Laundry Bag 2.png,Laundry Bag 3.png]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Mattress & Pillow Cover ]]></item>
+		<sku><![CDATA[MPC]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Clothing ]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Mattress & Pillow Cover ]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[Twin ]]></size>
+		<price><![CDATA[$10 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Gym Bag]]></item>
+		<sku><![CDATA[GB]]></sku>
+		<size><![CDATA[]]></size>
+		<price><![CDATA[]]></price>
+		<category><![CDATA[Clothing]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+	<node>
+		<item><![CDATA[Gym Bag]]></item>
+		<sku><![CDATA[]]></sku>
+		<size><![CDATA[24" ]]></size>
+		<price><![CDATA[$8 ]]></price>
+		<category><![CDATA[]]></category>
+		<unit><![CDATA[]]></unit>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[]]></description>
+		<image><![CDATA[]]></image>
+	</node>
+</data>
