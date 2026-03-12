@@ -1,0 +1,312 @@
+/*
+Theme Name: Your Mind Center
+Theme URI: http://localhost/your-mind-center/
+Author: yourmindcenter
+Author URI: http://localhost/your-mind-center/
+Description:
+Version: 1.0
+Tags: bootstrap
+*/
+
+/* display menu */
+.header_part nav ul li a {
+    padding: 10px 24px !important;
+}
+.navbar-nav ul.sub-menu{
+    display:none;
+}
+.navbar-nav li.menu-item-has-children > ul a:hover{
+  color : #001662 !important;
+ 
+}
+.about_practice_section {
+    padding: 0px;
+    padding-bottom: 0;
+}
+.about_practice_section .about_practice_part .about_practice_description{
+    padding: 0px 30px;
+}
+/*.navbar-nav li.menu-item-has-children:hover > ul{
+  display:block;
+  position: absolute;
+  margin-top: 42px;
+  min-width: 150px;
+  box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  list-style: none;
+  background-color: #ffffff;
+}*/
+/*end menu*/
+
+
+/*menu css hover */
+
+.header_part nav ul li a:hover{
+  color : #001662 !important;
+ 
+}
+
+/*menu css active */
+
+.header_part nav ul.sub-menu li a {
+    padding: 0px 15px !important;
+}
+ul.sub-menu {
+    padding: 10px 0px;
+}
+ul.sub-menu li {
+    padding: 3px 0px;
+}
+.header_part .navbar-light .navbar-nav .current-menu-ancestor ul.sub-menu li.current-menu-item a
+{
+  color: #001662 !important;
+}
+.header_part .navbar-light .navbar-nav .current-menu-item a
+{
+  color: #001662 !important;
+}
+
+.header_part .navbar-light .navbar-nav .current-menu-ancestor a
+{
+  color: #001662 !important;
+}
+.header_part .navbar-light .navbar-nav .current-menu-ancestor ul.sub-menu li a{
+    color: #171717 !important;
+}
+
+/* pagination css blog page */
+.pagination_part a, .pagination_part span {
+    font-family: FuturaPTMedium;
+    font-size: 25px;
+    padding: 0px 8px;
+    color: #333333;
+}
+.pagination_part .link_disabled{
+    pointer-events: none;
+    color: #3333338f;
+}
+.pagination_part {
+    text-align: center;
+    padding-bottom: 95px;
+}
+.pagination_part span.page-numbers.current {
+    color: #001662;
+}
+
+/* contact form css */
+
+input.wpcf7-form-control.wpcf7-submit.submit_btn{
+    display: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+/*map css contact page */
+
+.contact_part_right iframe {
+    width: 100%;
+    height: 445px;
+}
+@media  only screen and (max-width:1499px){
+    .contact_part_right iframe {
+        height: 100%;
+    }
+}
+@media only screen and (min-width:1366px) and (max-width:1460px){
+    .contact_block .container_full {
+        max-width: 1280px;
+    }
+    .a_about_section .container_full {
+        padding: 0px 60px;
+    }
+    .a_about_section .container_full {
+        max-width: 1320px;
+    }
+    .a_about_img img {
+        width: 100%;
+        height: 95%;
+    }
+    .personal_info_descr p {
+        font-size: 20px;
+    }
+    .personal_info_descr h4 {
+        font-size: 22px;
+    }
+    .qualifications_section .container_full {
+        max-width: 1320px;
+    }
+    .personal_note_section .container_full {
+        max-width: 1320px;
+    }
+}
+@media only screen and (min-width: 1024px) {
+    .navbar-nav li.menu-item-has-children:hover > ul{
+      display:block;
+      position: absolute;
+      margin-top: 42px;
+      min-width: 150px;
+      box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      list-style: none;
+      background-color: #ffffff;
+    }
+    
+}
+@media only screen and (max-width: 1024px) {
+    .about_practice_description {
+        width: 100%;
+        padding: 40px 30px !important;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .header_part nav ul li a {
+        border-bottom: 1px solid #b2b2b2;
+        border-top: 0 !important;
+    }
+    .navbar-nav li.menu-item-has-children:hover > ul {
+        margin-top: 0 !important;
+    }
+    ul.sub-menu {
+        padding: 0px !important;
+    }
+    .header_part nav ul li a {
+         padding: 0px !important; 
+    }
+    .header_part nav ul li.menu-item-has-children ul.sub-menu li a:after{
+        display: none;
+    }
+    /* dropdown css */
+    .header_part nav ul li.menu-item-has-children a:after {
+        content: '';
+        position: absolute;
+        right: 0px;
+        height: 10px;
+        width: 10px;
+        border: 2px solid;
+        transform: rotate(
+        45deg
+        );
+        border-top: 0;
+        border-left: 0;
+        top:calc(50% - 8px);
+        transition: 0.2s ease;
+    }
+    
+    .header_part nav ul li.menu-item-has-children.current a:after{
+        transform: rotate(224deg);
+        top: calc(50% - 3px);
+    }
+    .menu-item-has-children a{
+    position: relative;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .navbar-nav li.menu-item-has-children:hover > ul{
+      margin-top: 64px;     
+    }
+    .header_part nav ul.sub-menu li a {
+        padding: 0px !important;
+    }
+    .contact_part_right iframe {
+        height: 420px !important;
+        width: 100% !important;
+    }
+    .why_choose_us_bg_img {
+        height: 650px;
+    }
+}
+
+
+
+/*--------------------contact form red border error----------------------*/
+/*contactform*/
+.showmsg_section{
+    width: 100%;
+    position: relative;
+}
+p#msg{
+    padding-top: 25px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+a.back_to_form1{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px;
+    color: #5a5a5abd;
+    font-family: OpenSans-Semibold;
+    font-size: 14px;
+}
+a.back_to_form1:hover{
+    color: #5a5a5abd !important;
+}
+.form-part .form .form-group textarea {
+    padding-top: 20px;
+}
+#application_form_1 input.error,#application_form_1 select.error, #application_form_1 textarea.error{
+    border: 1px solid red;
+}
+#application_form_1 input.error:focus,#application_form_1 select.error:focus,#application_form_1 textarea.error:focus{
+    border-color: red;
+    box-shadow: unset;
+}
+#application_form_2 input.error,#application_form_2 select.error, #application_form_2 textarea.error{
+    border: 1px solid red;
+}
+#application_form_2 input.error:focus,#application_form_2 select.error:focus,#application_form_2 textarea.error:focus{
+    border-color: red;
+    box-shadow: unset;
+}
+form.wpcf7-form.form.invalid input.wpcf7-not-valid,form.wpcf7-form.form.invalid textarea.wpcf7-not-valid {
+    border: 1px solid red !important;
+}
+form.wpcf7-form.form.invalid span.wpcf7-not-valid-tip {
+    display: none !important;
+}
+#application_form_2 span.wpcf7-list-item label {
+    display: block;
+    width: 235px;
+    height: 62px;
+    margin: 0;
+}
+#application_form_2 span.wpcf7-form-control.wpcf7-radio {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#application_form_2 span.wpcf7-list-item.first {
+    margin-right: 12px;
+}
+#application_form_2 span label span.wpcf7-list-item-label {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    /* height: 90px; */
+    /* width: 130px; */
+    justify-content: center;
+    align-items: center;
+    /* background-color: #dedede; */
+    font-size: 16px;
+    border: 1px solid #e7e7e7;
+    color: #8c8c8c;
+    border-radius: 6px;
+    /* background-color: #dedede; */
+    text-shadow: 0 0 0 #000;
+    text-transform: uppercase;
+    font-family: Raleway-Regular;
+}
+#application_form_2 span.wpcf7-list-item.last {
+    margin-left: 12px;
+}
+#application_form_2 span label span.wpcf7-list-item-label:hover {
+    cursor: pointer;
+}
+/*#application_form_2 span.wpcf7-list-item input:checked + label span{*/
+/*  background-color:#dedede;*/
+/*  color: #000;    */
+/*}*/
+#application_form_2 .wpcf7-list-item {
+     display: unset; 
+     margin: 0px; 
+} 

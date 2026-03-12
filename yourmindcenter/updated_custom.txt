@@ -1,0 +1,1209 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #171717;
+ }
+/*------------- fonts ------------*/
+@font-face {
+	font-family:FuturaPTBook;
+	src: url(../font/FuturaPTBook.otf);
+}
+@font-face {
+	font-family:FuturaPTDemi;
+	src: url(../font/FuturaPTDemi.otf);
+}
+@font-face {
+	font-family:FuturaPTLight;
+	src: url(../font/FuturaPTLight.otf);
+}
+@font-face {
+	font-family:FuturaPTMedium;
+	src: url(../font/FuturaPTMedium.otf);
+}
+@font-face {
+	font-family:Montserrat-Regular;
+	src: url(../font/Montserrat-Regular.ttf);
+}
+@font-face {
+	font-family:Montserrat-Medium;
+	src: url(../font/Montserrat-Medium.ttf);
+}
+@font-face {
+    font-family:Montserrat-SemiBold;
+    src: url(../font/Montserrat-SemiBold.ttf);
+}
+a:hover{ 
+    text-decoration:none;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: unset;
+	margin:0px;
+	padding:0px;
+}
+ul
+{
+	margin:0px;
+	padding:0px;
+}
+:focus{
+    outline: none;
+}
+a {
+    transition: all .3s ease-in-out;
+   	text-decoration: unset;
+}
+/* -------------- common -------------- */
+
+.top_left h4, .top_left h4 a {
+    font-size: 15px;
+    color: #171717;
+    font-family:FuturaPTLight;
+    padding: 15px 0px;
+}
+.top_left h4 span{
+	font-family:FuturaPTDemi;
+}
+.top_bar_part {
+    background-color: #e1e8f7;
+    /*padding: 5px 0px;*/
+}
+.top_bar {
+    max-width: 1665px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top_left {
+    display: flex;
+    align-items: center;
+}
+
+.top_left h4.call_us {
+    padding-right: 40px;
+    border-right: 1px solid #adc2f0;
+    margin-right: 40px;
+}
+.top_right ul {
+    display: flex;
+    align-items: center;
+}
+.top_left h4 img {
+    padding-right: 11px;
+}
+.top_right ul li {
+    padding-left: 17px;
+    line-height: 0px;
+}
+
+/*menu*/
+.header_part .navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+.header_part .container-fluid, .header_part .navbar  {
+    padding: 0;
+}
+
+.header_part {
+    max-width: 1665px;
+    margin: 0 auto;
+    padding: 21px 0px;
+}
+.header_part nav ul li a{
+	font-family:FuturaPTBook;
+	font-size:20px;
+    color: #171717;
+    padding: 0px 24px !important;
+}
+.header_part nav ul li a:hover{
+    color: #001662 !important;
+}
+.header_part nav ul li a.nav-link.active{
+    color: #001662 !important;
+}
+.header_part .navbar-light .navbar-nav .nav-link {
+    color: #171717;
+}
+.header_part .navbar-light .navbar-nav .nav-link.active, .header_part .navbar-light .navbar-nav .show>.nav-link {
+    color:#171717;
+}
+.consultation_btn {
+    font-size: 16px;
+    color: #ffffff;
+    font-family:FuturaPTBook;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    background-color: #001662;
+    width: 260px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_btn {
+    padding-left: 43px;
+}
+.banner_img img {
+    width: 100%;
+}
+.banner-description h1{
+	color: #95bafc;
+	font-size: 86px;
+	line-height: 76px;
+	font-family:FuturaPTLight;
+	padding-bottom: 10px;
+}
+.banner-description h2{
+	font-size: 86px;
+	line-height: 90px;
+	color: #ffffff;
+	font-family:FuturaPTLight;
+	max-width: 610px;
+	padding-bottom: 49px;
+}
+.book_consultation {
+	font-size: 18px;
+    color: #ffffff;
+    font-family:FuturaPTBook;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    background-color: #eaae71;
+    width: 298px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-banner {
+    position: relative;
+}
+
+.banner-info {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.banner-description {
+	background: linear-gradient(130deg, rgba(0,17,79,1) 19%, rgb(113 147 210 / 85%) 100%);
+    /*background: linear-gradient(130deg, rgba(0,17,79,1) 37%, rgb(113 147 210 / 70%) 100%);*/
+    display: inline-block;
+    margin-left: 52px;
+    padding: 61px 124px 82px 74px;
+}
+.psychotherapy_section {
+    background-color: #cfb99e;
+    padding: 36px 0px;
+}
+.psychotherapy_part {
+    max-width: 1520px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+.psychotherapy_block h4 {
+    font-size: 24px;
+    color: #ffffff;
+    font-family:FuturaPTBook;
+    display: flex;
+    align-items: center;
+}
+.psychotherapy_block h4 img {
+    padding-right: 5px;
+}
+h2{
+	font-size: 56px;
+	line-height: 48px;
+	font-family:FuturaPTMedium;
+	color: #333333;
+}
+.about_practice_part {
+    display: flex;
+}
+
+.about_practice_img {
+    width: 50%;
+}
+.about_practice_img img {
+    width: 100%;
+}
+.about_practice_description {
+    width: 50%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: flex-start;
+    /*padding-right: 273px;*/
+}
+hr {
+    width: 94px;
+    height: 1px;
+    background-color: #95bafc;
+    opacity: 1;
+    margin: 20px 0px;
+}
+.about_practice_info p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family:Montserrat-Regular;
+    padding-bottom: 9px;
+    text-shadow: 0 0 0 #000000;
+}
+.learn_more_btn {
+	font-size: 18px;
+    color: #ffffff;
+    font-family: FuturaPTBook;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    background-color: #eaae71;
+    width: 216px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about_practice_info .learn_more_btn {
+    margin-top: 26px;
+}
+.about_practice_info {
+    max-width: 675px;
+}
+.about_practice_section {
+    padding: 8px 0px;
+    padding-bottom: 0;
+}
+.our_services_part p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+    max-width: 855px;
+    margin: 0 auto;
+}
+.our_services_section {
+    text-align: center;
+    background-color: #fbfbfb;
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+.our_services_part hr, .our_services_info hr {
+    margin: 20px auto;
+}
+.our_services_block {
+    display: flex;
+    margin-left: -25px;
+    margin-right: -25px;
+}
+
+.our_services_grid {
+    width: 50%;
+    margin: 0px 25px;
+    position: relative;
+}
+.our_services_part {
+    padding-bottom: 60px;
+}
+.container_full {
+    max-width: 1740px;
+    margin: 0 auto;
+}
+.our_services_info h3 {
+	font-size: 56px;
+	line-height: 48px;
+    color: #ffffff;
+    font-family: FuturaPTBook;
+    text-transform: uppercase;
+}
+.our_services_info p{
+	font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    max-width: 520px;
+    margin: 0 auto;
+}
+
+.our_services_img img {
+    width: 100%;
+}
+.our_services_info .learn_more_btn {
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.our_services_info {
+    position: absolute;
+    bottom: 75px;
+    left: 0;
+    right: 0;
+}
+.why_choose_us_bg_img img {
+    width: 100%;
+}
+.why_choose_us_bg_info {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.why_choose_us_bg {
+    position: relative;
+}
+.why_choose_us_block {
+    display: flex;
+    margin-left: -18px;
+    margin-right: -18px;
+}
+.latest_articles_section {
+    text-align: center;
+    padding-top: 79px;
+    padding-bottom: 47px;
+}
+.why_choose_us_grid {
+    background-color: #ffffff;
+    padding: 36px 23px;
+    padding-top: 74px;
+    margin: 0px 18px;
+    border-radius: 8px;
+    width: 20%;
+}
+.why_choose_us_grid hr {
+    margin: 20px auto;
+}
+.why_choose_us_part h2 {
+    color: #ffffff;
+    padding-bottom: 8px;
+}
+.why_choose_us_part {
+    padding-bottom: 62px;
+}
+.why_choose_us_part hr{
+    background-color: #ffffff;
+    margin: 20px auto;
+}
+.why_choose_us_bg_info .learn_more_btn {
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.why_choose_us_grid h4 {
+	font-size: 28px;
+	line-height: 28px;
+	color: #333333;
+	font-family:FuturaPTMedium;
+	text-transform: uppercase;
+}
+.why_choose_us_grid p {
+    font-size: 20px;
+    line-height: 24px;
+    color: #333333;
+    font-family: FuturaPTBook;
+}
+.latest_articles_part {
+    display: flex;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+.latest_articles_tital {
+    padding-bottom: 30px;
+}
+.latest_articles_block {
+    width: 33.33%;
+    margin: 0px 40px;
+}
+.latest_articles_tital hr {
+    margin: 20px auto;
+}
+.latest_articles_img img {
+    width: 100%;
+}
+.latest_articles_img {
+    height: 390px;
+}
+.latest_articles_info h3 {
+	font-size: 24px;
+    line-height: 24px;
+    color: #333333;
+    font-family:Montserrat-Medium;
+    padding-bottom: 17px;
+}
+.latest_articles_info p {
+	font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+    text-shadow: 0 0 0 #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+}
+.latest_articles_img img {
+    height: 100%;
+    object-fit: cover;
+}
+.latest_articles_info {
+    padding: 27px 20px;
+}
+.schedule_section {
+    background: linear-gradient(83deg, rgba(0,17,86,1) 0%, rgba(38,80,165,1) 58%, rgba(0,17,86,1) 100%);
+    padding: 91px 0px;
+}
+.schedule_info h3 {
+	font-size: 56px;
+    line-height: 56px;
+    color: #ffffff;
+    font-family: FuturaPTBook;
+}
+.schedule_info h3 span {
+	color: #95bafc;
+}
+.schedule_part {
+    display: flex;
+    max-width: 1260px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.schedule_info {
+    max-width: 850px;
+}
+.footer_section {
+    background-color: #05185f;
+    padding-top: 110px;
+}
+
+.footer_part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 103px;
+}
+.copy_right_part {
+    padding-bottom: 27px;
+}
+.footer_nav ul {
+    display: flex;
+    align-items: center;
+}
+.footer_social ul li {
+    padding-left: 24px;
+}
+.footer_social ul {
+    display: flex;
+    align-items: center;
+}
+.footer_social {
+    width: 25%;
+    display: flex;
+    justify-content: flex-end;
+}
+.footer_logo {
+    width: 25%;
+}
+.footer_nav {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.footer_nav ul li a {
+    font-family: FuturaPTLight;
+    color: #ffffff;
+    padding: 0px 34px;
+    font-size: 24px;
+}
+.copy_right_part ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.copy_right_part ul li, .copy_right_part ul li a {
+    font-family: FuturaPTLight;
+    color: #ffffff;
+    font-size: 16px;
+}
+.copy_right_part ul li a{
+	padding-left: 20px;
+}
+.learn_more_btn:hover, .book_consultation:hover {
+    background-color: #001662;
+    color: #ffffff;
+}
+.consultation_btn:hover{
+	background-color: #eaae71;
+	 color: #ffffff;
+}
+.why_choose_us_bg_img {
+    height: 850px;
+}
+
+.why_choose_us_bg_img img {
+    height: 100%;
+    object-fit: cover;
+}
+.banner_img .mob_banner {
+    display: none;
+}
+.navbar-brand .mob_logo {
+    display: none;
+}
+.owl-carousel .owl-nav button.owl-next span, .owl-carousel .owl-nav button.owl-prev span{
+    font-size: 0;
+}
+.why_choose_us_bg_img .choose_mob_bg {
+    display: none;
+}
+.psychotherapy_part_slider, .why_choose_us_block_slider, .latest_articles_part_slider {
+    display: none;
+}
+
+.blog_banner_img img {
+    width: 100%;
+}
+.blog_banner_info h2 {
+    font-size: 86px;
+    line-height: 90px;
+    font-family: 'FuturaPTLight';
+    color: #FFFFFE;
+}
+.blog_section_banner {
+    position: relative;
+}
+
+.blog_banner_info {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.latest_articles_part.latest_articles_blog_part {
+    flex-flow: wrap;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block{
+    width: 28.9%;
+    padding-bottom: 27px;
+}
+.latest_articles_section.latest_articles_blog {
+    padding-top: 100px;
+}
+.latest_articles_part.bloge_articles_info {
+    max-width: 1305px;
+    margin: 0 auto;
+    padding-bottom: 32px;
+}
+
+.latest_articles_part.bloge_articles_info .latest_articles_block {
+    width: 100%;
+    margin: 0 !important;
+}
+.latest_articles_part.bloge_articles_info .latest_articles_info h3 {
+    font-size: 56px;
+    line-height: 48px;
+    font-family:FuturaPTMedium;
+}
+.latest_articles_part.bloge_articles_info .latest_articles_info h5 {
+    font-size: 22px;
+    line-height: 48px;
+    color: #333333;
+    font-family: FuturaPTBook;
+}
+.latest_articles_part.bloge_articles_info .latest_articles_block .latest_articles_img {
+    height: unset;
+}
+.text_left_info {
+    text-align: left;
+    padding: 0px 0px !important;
+    padding-top: 60px !important;
+}
+.latest_articles_info.text_left_info p {
+    font-size: 18px;
+    line-height: 26px;
+    padding-bottom: 10px;
+}
+.helpful_links_part {
+    max-width: 665px;
+    margin: 0 auto;
+}
+.helpful_links_part h2 {
+    text-align: center;
+    padding-bottom: 17px;
+}
+.helpful_links_section {
+    padding-top: 95px;
+    padding-bottom: 90px;
+}
+
+.helpful_links_part hr {
+    margin: 20px auto;
+}
+.national_part h3 {
+    font-size: 26px;
+    line-height: 52px;
+    color: #000000;
+    font-family: 'FuturaPTMedium';
+    padding-bottom: 14px;
+}
+
+.national_part p {
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.6px;
+    color: #333333;
+    padding-bottom: 9px;
+    font-family:Montserrat-Regular;
+}
+.national_part p span{ 
+    color: #eaae71;
+}
+.national_part {
+    padding-top: 33px;
+}
+.our_philosophy_part {
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.our_philosophy_part hr {
+    margin: 20px auto;
+}
+.our_philosophy_section {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.our_philosophy_part p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+    max-width: 1145px;
+    margin: 0 auto;
+    padding-bottom: 25px;
+}
+.our_philosophy_block {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.our_philosophy_img {
+    width: 60%;
+}
+
+.our_philosophy_info {
+    width: 41%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding-left: 85px;
+    padding-right: 45px;
+}
+ul.anxiety_part li {
+    padding-bottom: 14px;
+}
+.our_philosophy_img img {
+    width: 100%;
+}
+.our_philosophy_info h3 {
+    font-size: 36px;
+    line-height: 52px;
+    color: #333333;
+    font-family: FuturaPTMedium;
+    padding-bottom: 7px;
+}
+.our_philosophy_info p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+}
+.our_philosophy_info ul li {
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+    position: relative;
+    padding-left: 28px;
+}
+.our_philosophy_info ul li:after{
+    content: ' ';
+    position: absolute;
+    background-image: url(../image/check-mark.png);
+    width:17px;
+    height: 17px;
+    left:0px;
+    top: 1px;
+    background-repeat: no-repeat;
+}
+ul.anxiety_part {
+    padding-top: 9px;
+}
+.our_philosophy_block.our_philosophy_block1 {
+    flex-flow: row-reverse;
+}
+.our_philosophy_section .container_full {
+    max-width: 1665px;
+}
+.our_philosophy_block.our_philosophy_block1 .our_philosophy_info {
+    padding-right: 120px;
+}
+.neurological_medical_section {
+    max-width: 1117px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.neurological_medical_section p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+}
+.neurological_medical_section h2 {
+    font-size: 36px;
+    padding-bottom: 23px;
+}
+.additional-areas_section {
+    background-color: #03155b;
+    padding: 120px 0px;
+    padding-bottom: 45px;
+}
+
+.additional-areas_part {
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.developmental_block {
+    display: flex;
+    align-items: flex-start;
+    padding-bottom: 58px;
+}
+.developmental_info h3 {
+    font-size: 32px;
+    line-height: 40px;
+    color: #ffffff;
+    font-family: FuturaPTMedium;
+    letter-spacing: 1px;
+    padding-bottom: 12px;
+}
+.developmental_info p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #ffffff;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #ffffff;
+}
+.additional-areas_part h2 {
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.developmental_img {
+    width: 10%;
+}
+.developmental_block_part {
+    padding-top: 44px;
+}
+.developmental_info {
+    width: 90%;
+}
+.additional-areas_part hr {
+    margin: 20px auto;
+}
+.type_evaluation_part {
+    max-width: 1308px;
+    margin: 0 auto;
+}
+.type_evaluation_info {
+    text-align: center;
+}
+.type_evaluation_info p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.9px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #333333;
+    padding-bottom: 11px;
+}
+.type_evaluation_info h3 {
+    font-size: 36px;
+    line-height: 52px;
+    color: #333333;
+    font-family: FuturaPTMedium;
+    letter-spacing: 1px;
+    padding-bottom: 24px;
+}
+.type_evaluation_section {
+    padding: 102px 0px;
+    padding-bottom: 90px;
+}
+.clinical_interview_part p span {
+    font-family:Montserrat-SemiBold;
+    text-shadow: 0 0 0 #333333;
+}
+.clinical_interview_part {
+    text-align: left;
+}
+.type_evaluation_info.type_evaluation_info1 {
+    padding-top: 54px;
+}
+.a_about_section {
+    background-color: #f8f8f8;
+    padding: 120px 0px;
+}
+
+.a_about_part {
+    display: flex;
+}
+
+.a_about_img {
+    width: 48%;
+}
+.a_about_info h2 {
+    padding-bottom: 18px;
+}
+.a_about_info {
+    width: 52%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 122px;
+}
+.a_about_info p {
+     font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.9px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #333333;
+    padding-bottom: 11px;
+}
+.a_about_img img {
+    width: 100%;
+}
+.a_about_info hr {
+    margin-bottom: 37px;
+}
+.qualifications_info p {
+     font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.9px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #333333;
+    margin-bottom: 0;
+}
+.qualifications_part {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.qualifications_part hr {
+    margin: 20px auto;
+}
+.qualifications_section .container_full {
+    max-width: 1666px;
+}
+.qualifications_grid {
+    display: flex;
+        align-items: flex-start;
+    padding-bottom: 70px;
+    margin-bottom: 70px;
+    border-bottom: 1px solid #d8d8d8;
+}
+.qualifications_grid:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+.qualifications_logo {
+    width: 22%;
+}
+.qualifications_part h2 {
+    padding-bottom: 17px;
+}
+.qualifications_info {
+    width: 78%;
+    padding-left: 15px;
+}
+.qualifications_section {
+    padding-top: 98px;
+    padding-bottom: 110px;
+}
+.personal_note_section {
+    background-color: #f4f3f2;
+    padding: 130px 0px;
+}
+.personal_note_part p{
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.9px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #333333;
+    padding-bottom: 11px;
+}
+.personal_note_part {
+    text-align: center;
+    max-width: 1285px;
+    margin: 0 auto;
+}
+
+.personal_note_part hr {
+    margin: 40px auto;
+}
+
+.personal_info_grid {
+    display: flex;
+}
+.personal_info_descr h4 {
+    font-size: 24px;
+    line-height: 38px;
+    color: #05185f;
+    letter-spacing: 0.6px;
+    font-family:Montserrat-SemiBold;
+}
+.personal_info_descr {
+    width: 52%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    background-color: #ffffff;
+    margin-right: 30px;
+    padding: 0px 110px;
+}
+.personal_info_descr p {
+    font-size: 24px;
+    line-height: 36px;
+    color: #05185f;
+    font-family:Montserrat-Medium;
+    font-style: italic;
+    padding-bottom: 19px;
+    letter-spacing: 0.6px;
+}
+.personal_info_img {
+    width: 48%;
+}
+.personal_info_part {
+    padding-top: 48px;
+}
+.personal_info_img img {
+    width: 100%;
+}
+.our_philosophy_part h2 {
+    padding-bottom: 13px;
+}
+.our_philosophy_section.contact_section .our_philosophy_part p {
+    max-width: 1170px;
+}
+.our_philosophy_section.contact_section {
+    padding-bottom: 0;
+}
+.contact_part {
+    display: flex;
+    padding-bottom: 114px;
+}
+
+.contact_part_left {
+    width: 51%;
+    padding-right: 65px;
+}
+.contact-form .submit_btn {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: FuturaPTBook;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    background-color: #eaae71;
+    width: 216px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-top: 14px;
+    margin-left: 12px;
+}
+.contact_part_right {
+    width: 49%;
+}
+.contact-form .form-group .form-control {
+    height: 56px;
+    border: 1px solid #999999;
+    border-radius: unset;
+}
+.contact-form .form-group textarea.form-control {
+    height: 228px;
+}
+.contact-form .form-group label{
+    font-size: 22px;
+    font-family: FuturaPTBook;
+    color: #333333;
+}
+.contact-form .form-group {
+    padding-bottom: 18px;
+}
+.contact-form {
+    margin-top: -30px;
+}
+.contact_address {
+    text-align: center;
+    padding-top: 28px;
+}
+
+.contact_address p, .contact_address p a {
+    margin: 0;
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+}
+.emergency_part p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.9px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #333333;
+}
+.emergency_part p span {
+     font-family:Montserrat-SemiBold;
+}
+.emergency_part p a {
+    color: #eaae71;
+    font-family:Montserrat-Medium;
+}
+.emergency_part {
+    display: flex;
+    padding-top: 60px;
+    border-top: 1px solid #d8d8d8;
+}
+.contact_part_right img {
+    width: 100%;
+}
+.emergency_block {
+    width: 51%;
+    padding-right: 65px;
+}
+.contact_block {
+    padding-bottom: 60px;
+}
+.emergency_national_block {
+    width: 49%;
+}
+.emergency_block p span {
+    display: block;
+}
+.contact_block .container_full {
+    max-width: 1665px;
+}
+
+.our_philosophy_part.our_fees_part {
+    padding-bottom: 11px;
+}
+.psychotherapy_fees .container_full {
+    max-width: 1130px;
+    margin: 0 auto;
+}
+.psychotherapy_fees_info table {
+    width: 100%;
+}
+
+.psychotherapy_fees_info table tr td, .psychotherapy_fees_info table tr th {
+    border: 1px solid #646464;
+    padding: 9px 25px;
+    width: 33.33%;
+}
+.psychotherapy_fees_info table tr th {
+    color: #333333;
+    text-shadow: 0 0 0 #333333;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family:Montserrat-SemiBold;
+    background-color: #f6e8d9;
+}
+.psychotherapy_fees_info table tr td{
+     color: #333333;
+     text-shadow: 0 0 0 #333333;
+    font-size: 16px;
+     font-family: Montserrat-Regular;
+}
+.psychotherapy_fees_info h3 {
+    color: #eaae71;
+    font-size: 26px;
+    line-height: 52px;
+    font-family:FuturaPTMedium;
+}
+.psychotherapy_fees_info {
+    padding-top: 55px;
+}
+.psychotherapy_fees_part p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+    padding-top: 38px;
+}
+.psychotherapy_fees_info:first-child {
+    padding-top: 0;
+}
+.methods_of_payment_info h3 {
+    font-size: 36px;
+    line-height: 52px;
+    font-family: FuturaPTMedium;
+    color: #333333;
+    padding-bottom: 13px;
+}
+.methods_of_payment_info p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+    letter-spacing: 0.6px;
+    font-family: Montserrat-Regular;
+    text-shadow: 0 0 0 #000000;
+    padding-bottom: 11px;
+}
+.methods_of_payment_info {
+    padding-top: 35px;
+}
+.psychotherapy_fees {
+    padding-bottom: 50px;
+}
+
+
+.our_services_info1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background-color: #05185f6e;
+}

@@ -1,0 +1,25 @@
+-------------about---------------
+.a_about_img {
+    width: auto;
+}
+.personal_note_section {
+    padding: 120px 0px;
+}
+
+--------logo---------
+.navbar-brand .mob_logo {
+    width: auto;
+}
+@media (max-width: 1199px)
+.navbar-brand img {
+    width: auto;
+}
+
+----------instagram--------------
+https://www.instagram.com/yourmindcenter/
+
+@media (max-width: 1280px)
+.why_choose_us_grid h4 {
+    font-size: 18px;
+    line-height: 25px;
+}

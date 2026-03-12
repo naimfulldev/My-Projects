@@ -1,0 +1,1274 @@
+/* -------------- media query start ---------------*/
+@media (max-width:2560px)and (min-width: 1921px){
+}
+@media (max-width:2000px) and (min-width: 1921px){
+}
+@media (max-width:1750px){
+}
+@media (max-width:1699px){
+.a_about_info {
+    padding-right: 0;
+}
+.our_philosophy_info {
+    padding-left: 70px;
+    padding-right: 0;
+}
+.our_philosophy_block.our_philosophy_block1 .our_philosophy_info {
+    padding-right: 70px;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    width: 30.7%;
+}
+.top_bar {
+    padding: 0px 40px;
+}
+.header_part {
+   padding: 21px 40px;
+}
+.container_full {
+   padding: 0px 40px;
+}
+.latest_articles_block {
+    margin: 0px 20px;
+}
+.latest_articles_part {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+.psychotherapy_part{
+	padding:0px 40px;
+}
+}
+@media (max-width:1599px){
+}
+@media (max-width:1499px){
+.contact_part_right {
+    height: 447px;
+}
+.contact_part_right img {
+    height: 100%;
+}
+.latest_articles_part.bloge_articles_info {
+    padding-bottom: 0;
+}
+.qualifications_logo img {
+    width: 100%;
+}
+.a_about_info h2 {
+    padding-bottom: 4px;
+}
+.a_about_info hr {
+    margin-bottom: 25px;
+}
+.personal_info_descr {
+   padding: 0px 35px;
+}
+.qualifications_info {
+    padding-left: 35px;
+}
+.a_about_info {
+    padding-left: 40px;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    width: 30.4%;
+}
+.footer_nav ul li a {
+   padding: 0px 25px;
+}
+.why_choose_us_grid h4 {
+    font-size: 22px;
+    line-height: 26px;
+}
+.banner-description {
+    padding: 60px;
+}
+.banner-description h1 {
+    font-size: 78px;
+    line-height: 70px;
+    padding-bottom: 6px;
+}
+.banner-description h2 {
+    font-size: 78px;
+    line-height: 80px;
+    padding-bottom: 30px;
+    max-width: 550px;
+}
+.about_practice_info p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 0;
+}
+.about_practice_section {
+    padding:0px;
+}
+.about_practice_description {
+    padding: 40px 0px;
+}
+.about_practice_img img {
+    height: 100%;
+    object-fit: cover;
+}
+.why_choose_us_bg_img {
+    height: 715px;
+}
+.latest_articles_info {
+    padding: 27px 15px;
+}
+.why_choose_us_grid {
+    padding: 18px 23px;
+    padding-top: 45px;
+    margin: 0px 10px;
+}
+.banner_img {
+    height: 630px;
+}
+.banner_img img{
+	height: 100%;
+	object-fit: cover;
+}
+.latest_articles_part.bloge_articles_info .latest_articles_info {
+    padding-top: 0;
+}
+ul.anxiety_part li {
+    padding-bottom: 11px;
+}
+ul.anxiety_part li {
+    padding-bottom: 11px;
+}
+.our_philosophy_info {
+    width: 45%;
+}
+.our_philosophy_img {
+    width: 55%;
+}
+.our_philosophy_info {
+    padding-left: 60px;
+}
+.our_philosophy_block.our_philosophy_block1 .our_philosophy_info {
+    padding-right: 60px;
+}
+}
+@media (max-width:1366px){ 
+.contact_part_left, .emergency_block {
+    padding-right: 40px;
+}
+.qualifications_info p {
+    font-size: 16px;
+}
+.personal_note_part p {
+    font-size: 16px;
+}
+.a_about_info p {
+    font-size: 16px;
+}
+.personal_info_descr p {
+    font-size: 20px;
+    line-height: 31px;
+    padding-bottom: 2px;
+}
+.our_philosophy_block.our_philosophy_block1 .our_philosophy_info {
+    padding: 0px 20px;
+}
+.our_philosophy_info {
+    padding-left: 20px;
+}
+.our_philosophy_info p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    width: 30.2%;
+    padding-bottom: 12px;
+}
+.latest_articles_section.latest_articles_blog {
+    padding-top: 69px;
+}
+.about_practice_info {
+    padding-right: 20px;
+}
+.our_services_grid {
+    margin: 0px 15px;
+}
+.our_services_block {
+    display: flex;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.footer_logo img {
+   /* width: 100%;
+    padding-right: 20px;*/
+}
+.why_choose_us_grid {
+    padding: 18px 15px;
+    padding-top: 45px;
+} 
+}
+@media (max-width:1280px){
+.our_philosophy_info ul li {
+    font-size: 15px;
+}
+.contact_part_right {
+    height: 371px;
+}
+.contact-form .form-group textarea.form-control {
+    height: 170px;
+}
+.contact-form .form-group .form-control {
+    height: 48px;
+}
+.contact_part {
+    padding-bottom: 90px;
+}
+.emergency_part p {
+    font-size: 16px;
+}
+.qualifications_grid {
+    padding-bottom: 45px;
+    margin-bottom: 50px;
+}
+.personal_note_section {
+    padding: 95px 0px;
+}
+ul.anxiety_part li {
+    padding-bottom: 6px;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    margin: 0px 19px;
+}
+.blog_banner_info h2 {
+    font-size: 65px;
+    line-height: 70px;
+}
+.footer_nav ul li a {
+    padding: 0px 17px;
+}
+.why_choose_us_grid {
+    padding: 18px 7px;
+    padding-top: 45px;
+}
+.why_choose_us_grid h4 {
+    font-size: 19px;
+    line-height: 25px;
+}
+.why_choose_us_grid p {
+    font-size: 18px;
+    line-height: 22px;
+}
+.schedule_info {
+    max-width: 755px;
+}
+.schedule_info h3 {
+    font-size: 48px;
+    line-height: 53px;
+}
+.latest_articles_img {
+    height: 271px;
+}
+
+}
+@media (max-width:1200px){
+}
+@media (max-width:1199px){
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    margin: 0px 18px;
+}
+.banner_img {
+    height: 535px;
+}
+.top_bar {
+    padding: 0px 20px;
+}
+.header_part {
+   padding: 21px 20px;
+}
+.container_full {
+   padding: 0px 20px;
+}
+.psychotherapy_part{
+	padding:0px 20px;
+}
+.banner-description {
+    padding: 40px;
+}
+.navbar-brand img {
+    width: 100%;
+}
+}
+@media (max-width:1112px){
+}
+@media (max-width:1024px){
+.contact_part_left, .emergency_block {
+    padding-right: 20px;
+}
+.contact_part {
+    padding-top: 20px;
+}
+.a_about_section {
+    padding: 85px 0px;
+    padding-bottom: 50px;
+}
+.qualifications_logo {
+    width: 30%;
+}
+.qualifications_info {
+    padding-left: 25px;
+    width: 70%;
+}
+.personal_info_descr {
+    padding: 0px 15px;
+    margin-right: 20px;
+}
+.personal_info_descr h4 {
+    font-size: 20px;
+}
+.personal_info_descr p {
+    font-size: 17px;
+    line-height: 27px;
+}
+.a_about_part {
+    flex-flow: column;
+}
+.a_about_img {
+    width: 100%;
+}
+.a_about_info {
+    padding-left: 0px;
+    width: 100%;
+    padding-top: 40px;
+}
+.our_philosophy_section {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.our_philosophy_block.our_philosophy_block1 {
+    flex-flow: column;
+}
+.our_philosophy_part {
+    padding-bottom: 35px;
+}
+.neurological_medical_section {
+   padding-bottom: 20px;
+}
+.type_evaluation_section {
+    padding: 55px 0px;
+    padding-bottom: 40px;
+}
+.type_evaluation_info.type_evaluation_info1 {
+    padding-top: 15px;
+}
+.developmental_block_part {
+    padding-top: 20px;
+}
+.developmental_block {
+   padding-bottom: 20px;
+}
+.additional-areas_section {
+   padding: 70px 0px;
+    padding-bottom: 25px;
+}
+.our_philosophy_info {
+    padding-left: 0px;
+    width: 100%;
+    padding-top: 20px;
+}
+.our_philosophy_block.our_philosophy_block1 .our_philosophy_info {
+    padding: 0px;
+    padding-top: 20px;
+}
+.our_philosophy_img {
+    width: 100%;
+}
+.our_philosophy_block {
+    flex-flow: column;
+    padding-bottom: 55px;
+}
+.text_left_info {
+    padding-top: 45px !important;
+}
+
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    margin: 0px 8px;
+    width: 31.7%;
+}
+.footer_nav ul li a {
+    padding: 0px 14px;
+}
+.footer_logo img {
+    width: 140px;
+}
+.why_choose_us_block_slider {
+    padding: 0px 50px;
+    display: block;
+}
+.why_choose_slider .owl-nav {
+    top: 34%;
+}
+.why_choose_slider.owl-carousel .owl-nav button.owl-prev span{
+        background-image: url(../image/choose_slider_arrow_left.png);
+    width: 14px;
+    height: 26px;
+    left: -40px;
+   font-size: 0px;
+    position: absolute;
+}
+.why_choose_slider.owl-carousel .owl-nav button.owl-next span{
+    right: 0;
+     background-image: url(../image/choose_slider_arrow_right.png);
+    width: 14px;
+    height: 26px;
+    right: -40px;
+    position: absolute;
+    font-size: 0px;
+}
+
+.why_choose_us_bg_info {
+    display: block;
+    padding: 90px 0px;
+}
+.why_choose_us_grid {
+    width: 100%;
+    margin: 0;
+    min-height: 227px;
+}
+.why_choose_us_block {
+    display: none;
+}
+
+.psychotherapy_part {
+    display: none;
+}
+
+.psychotherapy_part_slider {
+    padding-left: 22px;
+    display: block;
+}
+.psychotherapy_block h4 img {
+    padding-right: 5px;
+    object-fit: scale-down;
+    height: 32px;
+    width: unset !important;
+}
+.psychotherapy_block h4 {
+    white-space: nowrap;
+       text-transform: uppercase;
+}
+.psychotherapy_block {
+    width: 100%;
+}
+.latest_articles_block {
+    margin: 0px 8px;
+}
+.schedule_info h3 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.why_choose_us_grid {
+    min-height: 191px;
+}
+
+.why_choose_us_bg_info .learn_more_btn {
+    margin-top: 55px;
+  }
+.latest_articles_part {
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.our_services_info {
+   bottom: 30px;
+}
+.our_services_info h3 {
+    font-size: 48px;
+    line-height: 44px;
+}
+.our_services_info p {
+    font-size: 16px;
+    padding: 0px 14px
+}
+.banner-description h2 {
+    font-size: 70px;
+    line-height: 76px;
+    max-width: 495px;
+}
+.about_practice_description {
+    width: 100%;
+    padding: 40px 30px;
+}
+.about_practice_info {
+    max-width: 100%;
+    padding-right: 0;
+}
+.banner-description h1 {
+    font-size: 70px;
+    line-height: 70px;
+}
+.about_practice_part {
+    flex-flow: column-reverse;
+}
+.about_practice_img {
+    width: 100%;
+}
+.blog_banner_img img {
+    height: 100%;
+}
+.blog_banner_img {
+    height: 235px;
+}
+.neurological_medical_section p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.type_evaluation_info p {
+    font-size: 16px;
+}
+}
+@media (max-width:992px){
+}
+@media (max-width:991px){
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    width: 48.2%;
+}
+body.menu-open {
+    position: fixed;
+    width: 100%;
+}
+.header_part nav ul li a {
+    font-family: FuturaPTBook;
+    font-size: 16px;
+    line-height: 54px;
+    text-transform: uppercase;
+    text-shadow: 0 0 0 #000000;
+    border-top: 1px solid #b2b2b2;
+    margin: 0px 25px;
+    padding: 0 !important;
+}
+.header_btn {
+    padding-left: 25px;
+    padding-top: 35px;
+    padding-bottom: 400px;
+}
+.navbar-light .navbar-toggler-icon {
+   background-image: url(../image/menu.png);
+    width: 22px;
+    height: 16px;
+    background-repeat: no-repeat;
+    content: '';
+    position: absolute;
+    right: 25px;
+    top: 14px;
+}
+.navbar-light .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon{
+	background-image: url(../image/close.png);
+	width: 16px;
+}
+.header_part nav ul li:last-child a{
+	border-bottom: 1px solid #b2b2b2;
+}
+.header_part {
+    padding: 14px 0px;
+}
+a.navbar-brand {
+    padding-left: 25px;
+}
+.navbar-toggler:focus {
+    box-shadow: unset;
+}
+.navbar-toggler {
+    margin-right: 25px;
+    border: none;
+    padding: 10px 13px;
+}
+.navbar-collapse {
+    position: absolute;
+    width: 100%;
+    top: 58px;
+    z-index: 1;
+    background-color: #ffffff;
+}
+.navbar-brand .main_logo {
+    display: none;
+}
+.navbar-brand .mob_logo {
+    display: block;
+}
+}
+@media (max-width:800px){
+.blog_banner_img {
+    height: 200px;
+}
+.latest_articles_part_slider {
+    display: block;
+}
+.latest_articles_info h3 {
+    font-size: 20px;
+}
+.latest_articles_part {
+    display: none;
+}
+.top_left h4 {
+    display: none;
+}
+.banner_img {
+    height: 485px;
+}
+.banner-description h2 {
+    font-size: 45px;
+    line-height: 53px;
+    max-width: 388px;
+    padding-bottom: 22px;
+}
+.banner-description h1 {
+    font-size: 45px;
+    line-height: 40px;
+}
+.top_left h4.call_us {
+    display: block;
+    border: none;
+}
+.banner-description {
+    margin: 0;
+}
+.banner-description .book_consultation {
+    margin: 0 auto;
+}
+.banner-info {
+    justify-content: center;
+     text-align: center;
+}
+.about_practice_description {
+    padding: 40px 15px;
+    padding-bottom: 20px;
+}
+.our_services_section {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.our_services_info p {
+   display: none;
+}
+.our_services_info h3 {
+    font-size: 32px;
+    line-height: 19px;
+}
+.our_services_info hr {
+    display: none;
+}
+.our_services_grid {
+    margin: 0px 6px;
+}
+.our_services_block {
+    margin-left: -6px;
+    margin-right: -6px;
+}
+.why_choose_us_bg_info {
+   padding: 60px 0px;
+}
+.why_choose_us_part {
+    padding-bottom: 33px;
+}
+.why_choose_us_bg_info .learn_more_btn {
+    margin-top: 55px;
+}
+.why_choose_us_bg_img {
+    height: 585px;
+}
+.latest_articles_block {
+    width: 100%;
+    margin: 0;
+}
+.latest_articles_part_slider {
+    padding: 0px 50px;
+}
+.latest_articles_part_slider .why_choose_slider.owl-carousel .owl-nav button.owl-prev span{
+        background-image: url(../image/latest_slider_right_arrow.png);
+    width: 14px;
+    height: 26px;
+    left: -40px;
+   font-size: 0px;
+    position: absolute;
+}
+.latest_articles_part_slider .why_choose_slider.owl-carousel .owl-nav button.owl-next span{
+    right: 0;
+     background-image: url(../image/latest_slider_left_arrow.png);
+    width: 14px;
+    height: 26px;
+    right: -40px;
+    position: absolute;
+}
+.latest_articles_part_slider .why_choose_slider .owl-nav {
+    top: 20%;
+}
+.latest_articles_section {
+    padding-top: 55px;
+    padding-bottom: 25px;
+}
+.schedule_info h3 {
+    font-size: 31px;
+    line-height: 38px;
+}
+.footer_nav ul li a {
+   padding: 0px 11px;
+}
+.schedule_section {
+    padding: 65px 0px;
+}
+.footer_section {
+   padding-top: 65px;
+}
+.footer_part {
+   padding-bottom: 65px;
+}
+.footer_nav {
+    width: 100%;
+   padding: 30px 0px;
+}
+.footer_social {
+    width: 100%;
+    justify-content: center;
+}
+.footer_social ul li {
+    padding: 0px 12px;
+}
+.footer_part {
+    flex-flow: column;
+}
+.footer_logo {
+    width: 100%;
+    margin: 0 auto;
+}
+.footer_logo {
+    width: unset;
+}
+.footer_logo img {
+    width: unset;
+}
+.latest_articles_part.bloge_articles_info {
+    display: block;
+}
+.latest_articles_info.text_left_info p {
+    font-size: 16px;
+    padding-bottom: 7px;
+}
+.latest_articles_part.bloge_articles_info .latest_articles_info h3 {
+    font-size: 44px;
+    padding-bottom: 5px;
+    line-height: 45px;
+}
+.helpful_links_section {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.national_part {
+    padding-top: 15px;
+}
+}
+@media (max-width:768px){
+.contact_part_right {
+    height: unset;
+}
+.psychotherapy_fees {
+    padding-bottom: 20px;
+}
+.contact_part {
+    flex-flow: column;
+    padding-bottom: 59px;
+}
+.emergency_part {
+    flex-flow: column;
+}
+.contact_part_left {
+    width: 100%;
+    padding: 0;
+}
+.contact_part_left, .emergency_block {
+    padding-right: 0px;
+    width: 100%;
+}
+.emergency_national_block {
+    width: 100%;
+}
+.contact_part_right {
+    width: 100%;
+    padding-top: 55px;
+}
+.our_philosophy_part h2 {
+    padding-bottom: 6px;
+}
+.qualifications_grid {
+    flex-flow: column;
+}
+.qualifications_section {
+    padding-top: 80px;
+    padding-bottom: 85px;
+}
+.personal_info_descr p {
+    font-size: 20px;
+    line-height: 31px;
+}
+.personal_info_descr {
+    padding: 40px 25px;
+    margin-right: 0px;
+    width: 100%;
+}
+.personal_info_grid {
+    flex-flow: column-reverse;
+}
+.personal_info_img {
+    width: 100%;
+}
+.qualifications_logo {
+    width: 100%;
+    text-align: center;
+}
+.qualifications_info {
+    width: 100%;
+    text-align: center;
+    padding-left: 0;
+    padding-top: 30px;
+}
+.qualifications_logo img {
+    width: unset;
+}
+.our_philosophy_part h2 {
+    line-height: 57px;
+}
+.our_philosophy_part p {
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+.additional-areas_part h2 {
+    font-size: 45px;
+}
+
+.latest_articles_part.latest_articles_blog_part {
+    display: flex;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    width: 47.7%;
+}
+.type_evaluation_info p {
+    padding-bottom: 4px;
+}
+}
+@media (max-width:600px){
+.psychotherapy_fees_part p {
+    font-size: 16px;
+}
+.psychotherapy_fees_info table tr th {
+    font-size: 13px;
+}
+.psychotherapy_fees_info table tr td, .psychotherapy_fees_info table tr th {
+    padding: 9px 5px;
+}
+.psychotherapy_fees_info table tr td {
+    font-size: 12px;
+}
+.methods_of_payment_info h3 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.methods_of_payment_info {
+    padding-top: 7px;
+}
+.methods_of_payment_info p {
+    font-size: 16px;
+    padding-bottom: 4px;
+}
+.psychotherapy_fees_info {
+    padding-top: 22px;
+}
+.contact_address p, .contact_address p a {
+    font-size: 16px;
+}
+.contact_block {
+    padding-bottom: 45px;
+}
+.emergency_part {
+    padding-top: 43px;
+}
+.contact_part {
+    padding-bottom: 45px;
+}
+.a_about_info p {
+    padding-bottom: 0px;
+}
+.our_philosophy_part h2 {
+    padding-bottom: 0;
+}
+.qualifications_grid {
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+.our_philosophy_part h2 {
+    line-height: 36px;
+}
+.qualifications_part {
+    padding-bottom: 25px;
+}
+.personal_info_part {
+    padding-top: 15px;
+}
+.personal_info_descr {
+    padding: 25px 15px;
+}
+.personal_info_descr p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.personal_note_part p {
+    padding-bottom: 3px;
+}
+.personal_note_section {
+    padding: 45px 0px;
+    padding-bottom: 55px;
+}
+.qualifications_section {
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+.personal_note_part hr {
+    margin: 20px auto;
+}
+.a_about_info h2 {
+    padding-bottom: 0px;
+}
+.a_about_section {
+    padding: 55px 0px;
+    padding-bottom: 35px;
+    text-align: center;
+}
+.neurological_medical_section h2 {
+    font-size: 27px;
+    padding-bottom: 15px;
+    line-height: 35px;
+}
+.type_evaluation_info h3 {
+    font-size: 34px;
+    line-height: 36px;
+}
+.developmental_img {
+    width: 20%;
+}
+.additional-areas_section {
+    padding: 59px 0px;
+    padding-bottom: 25px;
+}
+.developmental_info p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.developmental_info h3 {
+    font-size: 25px;
+    line-height: 29px;
+}
+.developmental_info {
+    width: 80%;
+    padding-left: 6px;
+}
+.additional-areas_part h2 {
+    font-size: 34px;
+    padding-bottom: 0px;
+}
+.our_philosophy_section {
+    padding-top: 49px;
+    padding-bottom: 20px;
+}
+ul.anxiety_part {
+    padding-top: 4px;
+}
+.our_philosophy_info p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.our_philosophy_info h3 {
+    font-size: 30px;
+    line-height: 33px;
+    padding-bottom: 11px;
+}
+.our_philosophy_part {
+    padding-bottom: 32px;
+}
+.our_philosophy_block {
+    padding-bottom: 33px;
+}
+.our_philosophy_part p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.national_part p {
+    font-size: 16px;
+    line-height: 22px;
+    padding-bottom: 3px;
+}
+.national_part {
+    padding-top: 4px;
+}
+.helpful_links_part h2 {
+    padding-bottom: 0px;
+}
+.helpful_links_section {
+    padding-top: 45px;
+}
+.latest_articles_part.bloge_articles_info .latest_articles_info h3 {
+    font-size: 34px;
+    padding-bottom: 5px;
+    line-height: 36px;
+}
+.text_left_info {
+    padding-top: 30px !important;
+}
+.latest_articles_section.latest_articles_blog {
+    padding-top: 55px;
+}
+.latest_articles_part.latest_articles_blog_part .latest_articles_block {
+    width: 100%;
+}
+.why_choose_us_grid hr {
+    margin: 13px auto;
+}
+.latest_articles_part_slider .why_choose_slider .owl-nav {
+    top: 22%;
+}
+.why_choose_slider .owl-nav {
+    top: 33%;
+}
+.why_choose_us_bg_img .choose_desk_bg {
+    display: none;
+}
+.why_choose_us_bg_img .choose_mob_bg {
+    display: block;
+}
+.psychotherapy_block h4 {
+    white-space: unset;
+}
+.schedule_info h3 span {
+    display: block;
+}
+.why_choose_us_grid h4 {
+    font-size: 20px;
+    line-height: 22px;
+}
+.our_services_info {
+    bottom: 25px;
+}
+.why_choose_us_grid p {
+    font-size: 14px;
+    line-height: 18px;
+}
+.banner-description {
+    padding: 0px;
+     width: 330px;
+    margin: 0 auto;
+}
+.why_choose_us_bg_info .learn_more_btn {
+    margin-top: 42px;
+    font-size: 16px;
+    width: 148px;
+    height: 40px;
+}
+.why_choose_us_grid {
+    padding: 18px 15px;
+    padding-top: 45px;
+}
+.why_choose_us_bg_img {
+    height: 545px;
+}
+h2 {
+    font-size: 34px;
+    line-height: 36px;
+}
+hr {
+   margin: 20px auto;
+}
+.container_full {
+    padding: 0px 15px;
+}
+.about_practice_description {
+    padding: 46px 15px;
+    padding-bottom: 20px;
+}
+.about_practice_info .learn_more_btn {
+    margin: 0 auto;
+    margin-top: 26px;
+}
+.about_practice_info p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.about_practice_info {
+    text-align: center;
+}
+.psychotherapy_section {
+    padding: 22px 0px;
+    display: none;
+}
+.psychotherapy_block h4 {
+    font-size: 19px;
+}
+.top_right {
+    display: none;
+}
+.banner-description {
+    background: transparent;
+}
+.top_left h4.call_us span {
+    display: none;
+}
+.top_left h4.call_us {
+    margin-right: 0px;
+    padding-right: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top_left h4, .top_left h4 a {
+    font-size: 16px;
+    text-shadow: 0 0 0 #000000;
+    font-family: FuturaPTBook;
+    padding: 8px 0px;
+}
+.our_services_part p {
+    font-size: 14px;
+    line-height: 24px;
+ }
+ .our_services_section {
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+.our_services_info .learn_more_btn {
+    margin-top: 24px;
+    font-size: 16px;
+    width: 148px;
+    height: 40px;
+}
+.latest_articles_tital {
+    padding-bottom: 12px;
+}
+.our_services_part {
+    padding-bottom: 27px;
+}
+.top_left {
+     justify-content: center;
+    width: 100%;
+}
+.schedule_info h3 {
+    font-size: 30px;
+    line-height: 38px;
+    padding-bottom: 25px;
+}
+.schedule_section {
+    padding: 85px 0px;
+}
+.footer_part {
+    flex-flow: column;
+}
+.footer_logo img {
+    padding-right: 0px;
+    max-width: 264px;
+    margin: 0 auto;
+    display: block;
+}
+.footer_nav ul li a {
+    padding: 0;
+    line-height: 40px;
+}
+.footer_section {
+    padding-top: 58px;
+}
+.footer_nav {
+    width: 100%;
+    padding-top: 36px;
+    padding-bottom: 40px;
+}
+.footer_social {
+    width: 100%;
+    justify-content: center;
+}
+.footer_logo {
+    width: 100%;
+}
+.footer_social ul li {
+    padding: 0px 12px;
+}
+.footer_nav ul {
+    flex-flow: column;
+}
+.schedule_btn .learn_more_btn {
+    font-size: 16px;
+    width: 148px;
+    height: 40px;
+}
+.latest_articles_info h3 {
+    font-size: 18px;
+    line-height: 24px;
+}
+.latest_articles_info {
+    padding: 20px 0px;
+}
+.latest_articles_info p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.latest_articles_part_slider .why_choose_slider.owl-carousel .owl-nav button.owl-prev span {
+    left: -34px;
+}
+.latest_articles_part_slider .why_choose_slider.owl-carousel .owl-nav button.owl-next span{
+	right: -34px;
+}
+.latest_articles_part_slider {
+    padding: 0px 40px;
+}
+.our_services_block {
+    flex-flow: column;
+   margin: 0;
+}
+.our_services_grid {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.schedule_part {
+    flex-flow: column;
+    text-align: center;
+       /*padding: 0px 15px;*/
+}
+.banner_img {
+    height: unset;
+}
+.banner_img .desk_banner {
+    display: none;
+}
+.banner-description h2 {
+    font-size: 39px;
+    line-height: 41px;
+}
+.banner-description h1 {
+    font-size: 39px;
+    line-height: 35px;
+    padding-bottom: 5px;
+}
+.banner_img .mob_banner {
+    display: block;
+}
+.blog_banner_info h2 {
+    font-size: 49px;
+    line-height: 53px;
+}
+}
+@media (max-width:550px){
+}
+@media (max-width:500px){
+}
+@media (max-width:480px){ 
+}
+@media (max-width:425px){
+}
+@media (max-width:380px){
+.why_choose_slider .owl-nav {
+    top: 32%;
+}
+.why_choose_us_bg_img {
+    height: 560px;
+}
+}
+@media (max-width: 360px) {
+}
